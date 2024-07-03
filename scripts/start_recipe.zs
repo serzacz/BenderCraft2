@@ -163,3 +163,35 @@ recipes.addShaped(<gendustry:power_module>, [[<ore:gearBronze>, <ore:dropRoyalJe
 
 recipes.remove(<astralsorcery:blockaltar>);
 recipes.addShaped(<bloodmagic:altar>, [[<ore:runeWrathB>, null, <ore:runeWrathB>], [<appliedenergistics2:smooth_sky_stone_block>, <betterwithmods:hibachi>, <appliedenergistics2:smooth_sky_stone_block>], [<appliedenergistics2:smooth_sky_stone_block>, <bloodmagic:monster_soul>, <appliedenergistics2:smooth_sky_stone_block>]]);
+
+
+recipes.remove(<ic2:tool_box>);
+recipes.addShaped(<ic2:tool_box>, [[<ic2:casing:1>, <ironchest:iron_chest:1>, <ic2:casing:1>], [<ic2:casing:1>, <ic2:casing:1>, <ic2:casing:1>]]);
+
+
+recipes.remove(<ic2:te:43>);
+recipes.addShaped(<ic2:te:43>, [[<ic2:casing:3>, <ore:craftingToolForgeHammer>, <ic2:casing:3>], [<minecraft:piston>, <ore:machineBlock>, <minecraft:piston>], [<ore:compressed2xCobblestone>, <ore:circuitBasic>, <ore:compressed2xCobblestone>]]);
+
+
+recipes.remove(<ic2:te:55>);
+recipes.addShaped(<ic2:te:55>, [[<ic2:tool_box>, <ore:circuitBasic>, <ic2:tool_box>], [<ic2:forge_hammer>, <ore:machineBlock>, <ic2:cutter>], [<ic2:crafting:5>, <ic2:crafting:5>, <ic2:crafting:5>]]);
+
+
+recipes.remove(<ic2:te:47>);
+recipes.addShaped(<ic2:te:47>, [[null, <ore:circuitBasic>, null], [<minecraft:flint>, <betterwithmods:single_machine>, <minecraft:flint>], [<ic2:crafting:5>, <ic2:resource:12>, <ic2:crafting:5>]]);
+
+
+recipes.remove(<tconstruct:tinker_tank_controller>);
+recipes.addShaped(<tconstruct:tinker_tank_controller>, [[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <minecraft:cauldron>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>]]);
+
+
+recipes.remove(<tconstruct:smeltery_controller>);
+recipes.addShaped(<tconstruct:smeltery_controller>, [[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <ore:lapotronCrystal>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <tconstruct:tinker_tank_controller>, <ore:ingotBrickSeared>]]);
+
+
+recipes.remove(<harvestcraft:garliccoinitem>);
+recipes.addShaped(<harvestcraft:garliccoinitem>, [[<ore:nuggetGold>, <ore:ingotGold>, <ore:nuggetGold>], [<ore:ingotGold>, <ore:blockUrn>, <ore:ingotGold>], [<ore:nuggetGold>, <ore:ingotGold>, <ore:nuggetGold>]]);
+
+
+
+

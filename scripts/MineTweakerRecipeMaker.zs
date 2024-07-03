@@ -12,7 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
-recipes.remove(<harvestcraft:garliccoinitem>);
+
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
@@ -28,7 +28,7 @@ recipes.remove(<harvestcraft:garliccoinitem>);
 
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<harvestcraft:garliccoinitem>, [[<ore:nuggetGold>, <ore:ingotGold>, <ore:nuggetGold>], [<ore:ingotGold>, <ore:blockUrn>, <ore:ingotGold>], [<ore:nuggetGold>, <ore:ingotGold>, <ore:nuggetGold>]]);
+
 
 
 
