@@ -1,0 +1,23 @@
+{
+	x: -7.5d,
+	y: 0.0d,
+	dependencies: [
+		"d7961f1d"
+	],
+	tasks: [{
+		uid: "07c3060a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:bed"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ab2393ac",
+		type: "item",
+		item: "enderstorage:ender_storage"
+	}]
+}

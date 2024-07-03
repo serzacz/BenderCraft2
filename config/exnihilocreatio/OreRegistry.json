@@ -1,0 +1,101 @@
+[
+  {
+    "name": "gold",
+    "color": "ffff00",
+    "ingot": "minecraft:gold_ingot:-1",
+    "dust": "magneticraft:dusts:1"
+  },
+  {
+    "name": "iron",
+    "color": "bf8040",
+    "ingot": "minecraft:iron_ingot:-1",
+    "dust": "magneticraft:dusts:0"
+  },
+  {
+    "name": "aluminium",
+    "color": "bfbfbf",
+    "ingot": "magneticraft:ingots:7",
+    "dust": "magneticraft:dusts:7"
+  },
+  {
+    "name": "ardite",
+    "color": "ff751a",
+    "ingot": "tconstruct:ingots:1"
+  },
+  {
+    "name": "cobalt",
+    "color": "3333ff",
+    "ingot": "magneticraft:ingots:4",
+    "dust": "magneticraft:dusts:4"
+  },
+  {
+    "name": "copper",
+    "color": "ff9933",
+    "ingot": "magneticraft:ingots:2",
+    "dust": "magneticraft:dusts:2"
+  },
+  {
+    "name": "lead",
+    "color": "330066",
+    "ingot": "magneticraft:ingots:3",
+    "dust": "magneticraft:dusts:3"
+  },
+  {
+    "name": "nickel",
+    "color": "ffffcc",
+    "ingot": "magneticraft:ingots:10",
+    "dust": "magneticraft:dusts:10"
+  },
+  {
+    "name": "silver",
+    "color": "f2f2f2",
+    "ingot": "magneticraft:ingots:12",
+    "dust": "magneticraft:dusts:12"
+  },
+  {
+    "name": "tin",
+    "color": "e6fff2",
+    "ingot": "magneticraft:ingots:13",
+    "dust": "magneticraft:dusts:13"
+  },
+  {
+    "name": "tungsten",
+    "color": "1c1c1c",
+    "ingot": "magneticraft:ingots:5",
+    "dust": "magneticraft:dusts:5"
+  },
+  {
+    "name": "uranium",
+    "color": "4e5b43",
+    "ingot": "nuclearcraft:ingot:4",
+    "dust": "nuclearcraft:dust:4"
+  },
+  {
+    "name": "thorium",
+    "color": "333333",
+    "ingot": "nuclearcraft:ingot:3",
+    "dust": "nuclearcraft:dust:3"
+  },
+  {
+    "name": "boron",
+    "color": "939393",
+    "ingot": "nuclearcraft:ingot:5",
+    "dust": "nuclearcraft:dust:5"
+  },
+  {
+    "name": "lithium",
+    "color": "ededed",
+    "ingot": "nuclearcraft:ingot:6",
+    "dust": "nuclearcraft:dust:6"
+  },
+  {
+    "name": "magnesium",
+    "color": "f8def8",
+    "ingot": "nuclearcraft:ingot:7",
+    "dust": "nuclearcraft:dust:7"
+  },
+  {
+    "name": "osmium",
+    "color": "bbddff"
+  }
+]

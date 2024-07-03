@@ -1,0 +1,12 @@
+{
+  "minecraft:torch": 1,
+  "tconstruct:stone_torch": 1,
+  "minecraft:lava": 3,
+  "minecraft:fire": 4,
+  "minecraft:magma": 10,
+  "botania:blazeblock": 15,
+  "nuclearcraft:ingot_block:4": 20,
+  "nuclearcraft:ingot_block:3": 50,
+  "draconicevolution:draconic_block": 120,
+  "avaritia:block_resource:1": 400
+}

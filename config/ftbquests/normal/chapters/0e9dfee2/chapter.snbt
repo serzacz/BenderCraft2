@@ -1,0 +1,12 @@
+{
+	title: "IC2",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "ic2:forge_hammer"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,21 @@
+{
+	x: -7.5d,
+	y: -1.0d,
+	dependencies: [
+		"b79153f8"
+	],
+	tasks: [{
+		uid: "c5afc5c3",
+		type: "item",
+		items: [{
+			item: "minecraft:string"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "bcf4e9e8",
+		type: "item",
+		item: "harvestcraft:toastedwesternitem",
+		count: 5
+	}]
+}

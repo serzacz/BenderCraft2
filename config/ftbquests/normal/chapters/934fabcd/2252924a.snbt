@@ -1,0 +1,21 @@
+{
+	x: -6.5d,
+	y: -4.0d,
+	dependencies: [
+		"953c1346"
+	],
+	tasks: [{
+		uid: "924c826f",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "8f7f8829",
+		type: "item",
+		item: "harvestcraft:hamburgeritem",
+		count: 5
+	}]
+}

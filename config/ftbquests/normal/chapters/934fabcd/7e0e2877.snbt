@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: -4.0d,
+	dependencies: [
+		"24a6816d"
+	],
+	tasks: [{
+		uid: "023d501d",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_crucible 1 1"
+		}]
+	}]
+}

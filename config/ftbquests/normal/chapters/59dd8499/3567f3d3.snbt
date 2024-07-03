@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "486cdf05",
+		type: "item",
+		items: [{
+			item: "forestry:bee_chest"
+		}]
+	}]
+}

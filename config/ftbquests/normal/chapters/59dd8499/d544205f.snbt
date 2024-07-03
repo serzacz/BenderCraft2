@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "6729bb32",
+		type: "item",
+		items: [{
+			item: "forestry:honey_drop"
+		}]
+	}]
+}

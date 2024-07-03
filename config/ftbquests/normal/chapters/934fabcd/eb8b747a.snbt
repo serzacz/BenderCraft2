@@ -1,0 +1,14 @@
+{
+	x: -6.5d,
+	y: -1.0d,
+	dependencies: [
+		"d7961f1d"
+	],
+	tasks: [{
+		uid: "5e6587e3",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_sieve"
+		}]
+	}]
+}

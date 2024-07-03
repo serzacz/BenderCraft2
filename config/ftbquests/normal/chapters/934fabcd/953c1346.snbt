@@ -1,0 +1,22 @@
+{
+	title: "Kaminky",
+	icon: "botania:manaresource 1 21",
+	x: -7.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "d16bf089",
+		type: "item",
+		title: "Vymlat kaminky z travy",
+		icon: "botania:manaresource 1 21",
+		items: [{
+			item: "botania:manaresource 1 21"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "32f42bdb",
+		type: "item",
+		item: "minecraft:sapling",
+		count: 2
+	}]
+}

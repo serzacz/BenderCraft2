@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: -3.0d,
+	dependencies: [
+		"7e0e2877"
+	],
+	tasks: [{
+		uid: "fecc2cff",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:lava_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

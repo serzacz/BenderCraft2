@@ -1,0 +1,20 @@
+{
+	x: -4.5d,
+	y: -1.0d,
+	dependencies: [
+		"2e20f4bf"
+	],
+	tasks: [{
+		uid: "cd455a3f",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_mesh 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "21ee1ea2",
+		type: "item",
+		item: "harvestcraft:chilidogitem",
+		count: 5
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: 1.0d,
+	dependencies: [
+		"474e5d5a"
+	],
+	tasks: [{
+		uid: "7bd21f38",
+		type: "item",
+		items: [{
+			item: "ultimatecobblegen:dustgenerator"
+		}]
+	}]
+}

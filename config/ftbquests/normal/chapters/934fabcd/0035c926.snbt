@@ -1,0 +1,15 @@
+{
+	x: -3.5d,
+	y: -5.0d,
+	dependencies: [
+		"54393c30",
+		"d8e22950"
+	],
+	tasks: [{
+		uid: "94415057",
+		type: "item",
+		items: [{
+			item: "extrautils2:compressedsand"
+		}]
+	}]
+}

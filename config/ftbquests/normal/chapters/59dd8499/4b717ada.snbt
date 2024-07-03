@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: -5.0d,
+	dependencies: [
+		"e20119f8"
+	],
+	tasks: [{
+		uid: "941345af",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:hive 1 1"
+		}]
+	}]
+}

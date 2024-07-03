@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	dependencies: [
+		"1a2153c3"
+	],
+	tasks: [{
+		uid: "a100a001",
+		type: "item",
+		items: [{
+			item: "ultimatecobblegen:gravelgenerator"
+		}]
+	}]
+}

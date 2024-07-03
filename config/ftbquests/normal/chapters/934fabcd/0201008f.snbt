@@ -1,0 +1,20 @@
+{
+	x: -7.5d,
+	y: -3.0d,
+	dependencies: [
+		"953c1346"
+	],
+	tasks: [{
+		uid: "2358f639",
+		type: "item",
+		items: [{
+			item: "minecraft:log"
+		}]
+	}],
+	rewards: [{
+		uid: "2d087567",
+		type: "item",
+		item: "harvestcraft:bbqplatteritem",
+		count: 5
+	}]
+}

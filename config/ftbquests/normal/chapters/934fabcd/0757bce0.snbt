@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: -4.0d,
+	dependencies: [
+		"8581667b"
+	],
+	tasks: [{
+		uid: "9db7fd81",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}]
+	}]
+}

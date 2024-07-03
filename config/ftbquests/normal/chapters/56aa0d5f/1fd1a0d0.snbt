@@ -1,0 +1,19 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	dependencies: [
+		"8ab1c31f"
+	],
+	tasks: [{
+		uid: "63fb7a36",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "excompressum:bait",
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}]
+}

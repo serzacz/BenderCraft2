@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	dependencies: [
+		"573cc931"
+	],
+	tasks: [{
+		uid: "296fed17",
+		type: "item",
+		items: [{
+			item: "ultimatecobblegen:sandgenerator"
+		}]
+	}]
+}
