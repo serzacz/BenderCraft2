@@ -24,7 +24,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:dye:15",
     "drop_item": "minecraft:bone",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "",
     "parent_2": ""
   },
@@ -174,7 +174,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:flint",
     "drop_item": "minecraft:flint",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "",
     "parent_2": ""
   },
@@ -184,7 +184,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:quartz",
     "drop_item": "minecraft:quartz",
-    "spawn_type": "HELL",
+    "spawn_type": "NONE",
     "parent_1": "",
     "parent_2": ""
   },
@@ -194,7 +194,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:log",
     "drop_item": "minecraft:log",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "",
     "parent_2": ""
   },
@@ -204,7 +204,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:sand",
     "drop_item": "minecraft:sand",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "",
     "parent_2": ""
   },
@@ -214,7 +214,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:string",
     "drop_item": "minecraft:spider_eye",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:blackchicken",
     "parent_2": "chickens:logchicken"
   },
@@ -224,7 +224,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:glowstone_dust",
     "drop_item": "minecraft:glowstone_dust",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:quartzchicken",
     "parent_2": "chickens:yellowchicken"
   },
@@ -234,7 +234,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:gunpowder",
     "drop_item": "minecraft:gunpowder",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:sandchicken",
     "parent_2": "chickens:flintchicken"
   },
@@ -244,7 +244,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:redstone",
     "drop_item": "minecraft:redstone",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:redchicken",
     "parent_2": "chickens:sandchicken"
   },
@@ -254,7 +254,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:glass",
     "drop_item": "minecraft:glass",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:quartzchicken",
     "parent_2": "chickens:redstonechicken"
   },
@@ -264,7 +264,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:iron_ingot",
     "drop_item": "minecraft:iron_ingot",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:flintchicken",
     "parent_2": "chickens:whitechicken"
   },
@@ -274,7 +274,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:coal",
     "drop_item": "minecraft:coal",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:flintchicken",
     "parent_2": "chickens:logchicken"
   },
@@ -294,7 +294,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:gold_nugget",
     "drop_item": "minecraft:gold_nugget",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:ironchicken",
     "parent_2": "chickens:yellowchicken"
   },
@@ -304,7 +304,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:snowball",
     "drop_item": "minecraft:snowball",
-    "spawn_type": "SNOW",
+    "spawn_type": "NONE",
     "parent_1": "chickens:bluechicken",
     "parent_2": "chickens:logchicken"
   },
@@ -314,7 +314,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "chickens:liquid_egg",
     "drop_item": "chickens:liquid_egg",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:gunpowderchicken",
     "parent_2": "chickens:snowballchicken"
   },
@@ -324,7 +324,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "chickens:liquid_egg:1",
     "drop_item": "chickens:liquid_egg:1",
-    "spawn_type": "HELL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:coalchicken",
     "parent_2": "chickens:quartzchicken"
   },
@@ -334,7 +334,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:clay_ball",
     "drop_item": "minecraft:clay_ball",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:snowballchicken",
     "parent_2": "chickens:sandchicken"
   },
@@ -344,7 +344,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:leather",
     "drop_item": "minecraft:leather",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:stringchicken",
     "parent_2": "chickens:brownchicken"
   },
@@ -354,7 +354,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:nether_wart",
     "drop_item": "minecraft:nether_wart",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:brownchicken",
     "parent_2": "chickens:glowstonechicken"
   },
@@ -364,7 +364,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:diamond",
     "drop_item": "minecraft:diamond",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:glasschicken",
     "parent_2": "chickens:goldchicken"
   },
@@ -374,7 +374,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:blaze_rod",
     "drop_item": "minecraft:blaze_rod",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:goldchicken",
     "parent_2": "chickens:lavachicken"
   },
@@ -384,7 +384,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:slime_ball",
     "drop_item": "minecraft:slime_ball",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:claychicken",
     "parent_2": "chickens:greenchicken"
   },
@@ -394,7 +394,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:ender_pearl",
     "drop_item": "minecraft:ender_pearl",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:diamondchicken",
     "parent_2": "chickens:netherwartchicken"
   },
@@ -404,7 +404,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:ghast_tear",
     "drop_item": "minecraft:ghast_tear",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:whitechicken",
     "parent_2": "chickens:blazechicken"
   },
@@ -414,7 +414,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:emerald",
     "drop_item": "minecraft:emerald",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:diamondchicken",
     "parent_2": "chickens:greenchicken"
   },
@@ -424,7 +424,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:magma_cream",
     "drop_item": "minecraft:magma_cream",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:slimechicken",
     "parent_2": "chickens:blazechicken"
   },
@@ -434,7 +434,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:prismarine_shard",
     "drop_item": "minecraft:prismarine_shard",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:waterchicken",
     "parent_2": "chickens:bluechicken"
   },
@@ -444,7 +444,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:prismarine_crystals",
     "drop_item": "minecraft:prismarine_crystals",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:waterchicken",
     "parent_2": "chickens:emeraldchicken"
   },
@@ -454,7 +454,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:obsidian",
     "drop_item": "minecraft:obsidian",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:waterchicken",
     "parent_2": "chickens:lavachicken"
   },
@@ -464,7 +464,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:soul_sand",
     "drop_item": "minecraft:soul_sand",
-    "spawn_type": "HELL",
+    "spawn_type": "NONE",
     "parent_1": "",
     "parent_2": ""
   }

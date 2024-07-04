@@ -50,17 +50,21 @@ recipes.addShaped(<ultimatecobblegen:gravelgenerator>, [[<extrautils2:compressed
 
 // # Generator STONE
 recipes.remove(<ultimatecobblegen:cobblegenerator>);
-recipes.addShaped(<ultimatecobblegen:cobblegenerator>, [[<extrautils2:compressedcobblestone>, <excompressum:compressed_hammer_stone>, <ore:compressed1xCobblestone>], [<minecraft:lava_bucket>, <exnihilocreatio:block_crucible:1>, <ore:listAllwater>], [<ore:compressed1xCobblestone>, <tconstruct:wooden_hopper>, <ore:compressed1xCobblestone>]]);
+recipes.addShaped(<ultimatecobblegen:cobblegenerator>, [
+	[<extrautils2:compressedcobblestone>, <excompressum:compressed_hammer_stone>, <ore:compressed1xCobblestone>], 
+	[<minecraft:lava_bucket>, <exnihilocreatio:block_crucible:1>, <ore:listAllwater>], 
+	[<ore:compressed1xCobblestone>, <tconstruct:wooden_hopper>, <ore:compressed1xCobblestone>]
+	]);
+recipes.addShaped(<ultimatecobblegen:cobblegenerator>, [
+	[<ore:compressed1xCobblestone>, <excompressum:compressed_hammer_stone>, <ore:compressed1xCobblestone>], 
+	[<ceramics:clay_bucket>.withTag({fluids: {FluidName: "lava", Amount: 1000}}), <exnihilocreatio:block_crucible:1>, <ceramics:clay_bucket>.withTag({fluids: {FluidName: "water", Amount: 1000}})], 
+	[<ore:compressed1xCobblestone>, <tconstruct:wooden_hopper>, <ore:compressed1xCobblestone>]]);
 
-
-// # 
-recipes.remove(<aroma1997sdimension:portalframe>);
-recipes.addShaped(<aroma1997sdimension:portalframe> * 2, [[null, <ore:bricksStone>, null], [<ore:bricksStone>, <betterwithmods:material:45>, <ore:bricksStone>], [null, <ore:bricksStone>, null]]);
 
 
 // # 
 recipes.remove(<bonsaitrees:bonsaipot:1>);
-recipes.addShaped(<bonsaitrees:bonsaipot:1>, [[<ore:slabStone>, <bonsaitrees:bonsaipot>, <ore:slabStone>], [<ore:slabStone>, <ore:chest>, <ore:slabStone>], [<ore:slabStone>, <minecraft:hopper>, <ore:slabStone>]]);
+recipes.addShaped(<bonsaitrees:bonsaipot:1>, [[<ore:slabStone>, <bonsaitrees:bonsaipot>, <ore:slabStone>], [<ore:slabStone>, <ore:chest>, <ore:slabStone>], [<ore:gearBronze>, <minecraft:hopper>, <ore:gearBronze>]]);
 
 // # 
 recipes.remove(<exnihilocreatio:block_crucible>);
@@ -192,6 +196,12 @@ recipes.addShaped(<tconstruct:smeltery_controller>, [[<ore:ingotBrickSeared>, <o
 recipes.remove(<harvestcraft:garliccoinitem>);
 recipes.addShaped(<harvestcraft:garliccoinitem>, [[<ore:nuggetGold>, <ore:ingotGold>, <ore:nuggetGold>], [<ore:ingotGold>, <ore:blockUrn>, <ore:ingotGold>], [<ore:nuggetGold>, <ore:ingotGold>, <ore:nuggetGold>]]);
 
+// #AROMA - mining tools
+recipes.remove(<aroma1997sdimension:dimensionchanger>);
+recipes.remove(<aroma1997sdimension:miningmultitool>);
+recipes.addShaped(<aroma1997sdimension:dimensionchanger>, [[<ore:manaPearl>, <ore:blockEmerald>, <ore:manaPearl>], [<ore:blockEmerald>, <astralsorcery:blockmarble:5>, <ore:blockEmerald>], [<ore:manaPearl>, <bloodmagic:blood_shard>, <ore:manaPearl>]]);
+mods.botania.ElvenTrade.addRecipe([<aroma1997sdimension:miningmultitool>], [<aroma1997sdimension:dimensionchanger>]);
 
-
-
+// # 
+recipes.remove(<aroma1997sdimension:portalframe>);
+recipes.addShaped(<aroma1997sdimension:portalframe> * 2, [[null, <ore:bricksStone>, null], [<ore:bricksStone>, <betterwithmods:material:45>, <ore:bricksStone>], [null, <ore:bricksStone>, null]]);
