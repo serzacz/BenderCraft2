@@ -99,7 +99,8 @@ val IArray = [
 	<projecte:transmutation_table>,
 	<projecte:collector_mk1>,
 	<projecte:collector_mk2>,
-	<projecte:collector_mk3>
+	<projecte:collector_mk3>,
+	<rftools:dialing_device>
 ] as IItemStack[];
 
 for item in IArray {

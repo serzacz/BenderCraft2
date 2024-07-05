@@ -1,4 +1,11 @@
 import mods.buildcraft.AssemblyTable;
+
+recipes.remove(<buildcraftsilicon:assembly_table>);
+recipes.addShaped(<buildcraftsilicon:assembly_table>, [
+	[<ore:obsidian>, <ore:blockRedstone>, <ore:obsidian>], 
+	[<ore:obsidian>, <ore:blockDiamond>, <ore:obsidian>], 
+	[<ore:gearDiamond>, <ore:plateDenseIron>, <ore:gearDiamond>]
+	]);
  
  
 recipes.remove (<enderio:item_item_conduit>);
