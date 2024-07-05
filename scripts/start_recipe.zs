@@ -155,8 +155,9 @@ recipes.addShaped(<minecraft:wooden_shovel>, [
 recipes.remove(<bloodmagic:altar>);
 recipes.addShaped(<astralsorcery:blockaltar>, [[<ore:stoneMarble>, <avaritia:compressed_crafting_table>, <ore:stoneMarble>], [<ore:plankWood>, <bloodmagic:slate:2>, <ore:plankWood>], [<ore:plankWood>, <ore:stoneMarble>, <ore:plankWood>]]);
 
-//recipes.remove(<gendustry:power_module>);
-recipes.addShaped(<gendustry:power_module>, [[<ore:gearBronze>, <ore:dropRoyalJelly>, <ore:gearBronze>], [<minecraft:piston>, <ore:blockRedstone>, <minecraft:piston>], [<ore:gearBronze>, <ore:ingotGold>, <ore:gearBronze>]]);
+recipes.remove(<gendustry:power_module>);
+//clearRecipes: I:gendustry:power_module
+//recipes.addShaped(<gendustry:power_module>, [[<ore:gearBronze>, <ore:dropRoyalJelly>, <ore:gearBronze>], [<minecraft:piston>, <ore:blockRedstone>, <minecraft:piston>], [<ore:gearBronze>, <ore:ingotGold>, <ore:gearBronze>]]);
 
 recipes.remove(<astralsorcery:blockaltar>);
 recipes.addShaped(<bloodmagic:altar>, [[<ore:runeWrathB>, null, <ore:runeWrathB>], [<appliedenergistics2:smooth_sky_stone_block>, <betterwithmods:hibachi>, <appliedenergistics2:smooth_sky_stone_block>], [<appliedenergistics2:smooth_sky_stone_block>, <bloodmagic:monster_soul>, <appliedenergistics2:smooth_sky_stone_block>]]);
