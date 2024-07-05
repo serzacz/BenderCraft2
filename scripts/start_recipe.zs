@@ -110,10 +110,6 @@ recipes.addShaped(<minecraft:bed:14>, [[<minecraft:bed:*>, <ore:dyeRed>]]);
 recipes.addShaped(<minecraft:bed:15>, [[<minecraft:bed:*>, <ore:dyeBlack>]]);
 
 
-// # 
-recipes.addShaped(<betterwithmods:manual>, [[<ore:gearWood>, <ore:book>]]);
-
-
 recipes.remove(<minecraft:cauldron>);
 recipes.addShaped(<minecraft:cauldron>, [[<ore:plateIron>, null, <ore:plateIron>], [<ore:plateIron>, null, <ore:plateIron>], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>]]);
 
@@ -146,9 +142,6 @@ recipes.remove(<huntingdim:frame>);
 mods.botania.ElvenTrade.addRecipe([<huntingdim:frame>.withTag({BaseBlock: {id: "minecraft:log", Count: 1 as byte, Damage: 0 as short}})], [<extrautils2:suncrystal>]);
 
 
-recipes.remove(<botania:fertilizer>);
-mods.betterwithmods.Cauldron.addStoked([<minecraft:dye:11>, <minecraft:dye:1>, <minecraft:dye:15>],[<botania:fertilizer>]);
-
 recipes.remove(<extrautils2:suncrystal:250>);
 mods.botania.RuneAltar.addRecipe(<extrautils2:suncrystal:250>,[<minecraft:emerald_block>, <minecraft:glowstone_dust>, <minecraft:glowstone_dust>, <minecraft:glowstone_dust>, <minecraft:glowstone_dust>, <botania:rune:5>], 10000);
 
@@ -162,7 +155,7 @@ recipes.addShaped(<minecraft:wooden_shovel>, [
 recipes.remove(<bloodmagic:altar>);
 recipes.addShaped(<astralsorcery:blockaltar>, [[<ore:stoneMarble>, <avaritia:compressed_crafting_table>, <ore:stoneMarble>], [<ore:plankWood>, <bloodmagic:slate:2>, <ore:plankWood>], [<ore:plankWood>, <ore:stoneMarble>, <ore:plankWood>]]);
 
-recipes.remove(<gendustry:power_module>);
+//recipes.remove(<gendustry:power_module>);
 recipes.addShaped(<gendustry:power_module>, [[<ore:gearBronze>, <ore:dropRoyalJelly>, <ore:gearBronze>], [<minecraft:piston>, <ore:blockRedstone>, <minecraft:piston>], [<ore:gearBronze>, <ore:ingotGold>, <ore:gearBronze>]]);
 
 recipes.remove(<astralsorcery:blockaltar>);

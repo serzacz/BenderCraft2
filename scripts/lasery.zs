@@ -48,3 +48,11 @@ AssemblyTable.addRecipe("enderio_energy_conduit3_v2", <enderio:item_power_condui
 AssemblyTable.addRecipe("enderio_press_fluid_conduit_v2", <enderio:item_liquid_conduit:1>*16, 20000, [<enderio:item_liquid_conduit>*4, <buildcraftsilicon:redstone_chipset:1>, <ore:blockGlassHardened>, <ore:ingotSteel>]);
 
 AssemblyTable.addRecipe("enderio_ender_fluid_conduit_v2", <enderio:item_liquid_conduit:2>*16, 20000, [<enderio:item_liquid_conduit:1>*4, <buildcraftsilicon:redstone_chipset:2>, <ore:blockGlassHardened>, <ore:ingotVibrantAlloy>]);
+
+// # Capacitory
+
+AssemblyTable.addRecipe("enderio_capacitor_1", <enderio:item_basic_capacitor>, 10000, [<ore:dustBedrock>, <buildcraftsilicon:redstone_chipset>*2, <ore:ingotGold>*2]);
+
+AssemblyTable.addRecipe("enderio_capacitor_2", <enderio:item_basic_capacitor:1>, 20000, [<enderio:item_basic_capacitor>, <buildcraftsilicon:redstone_chipset:3>, <ore:ingotEnergeticAlloy>*2]);
+
+AssemblyTable.addRecipe("enderio_capacitor_3", <enderio:item_basic_capacitor:2>, 40000, [<enderio:item_basic_capacitor:1>, <buildcraftsilicon:redstone_chipset:4>, <ore:ingotVibrantAlloy>*2]);
