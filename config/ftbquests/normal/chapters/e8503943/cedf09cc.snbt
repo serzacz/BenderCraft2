@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: -1.0d,
+	dependencies: [
+		"73ffc8e5"
+	],
+	tasks: [{
+		uid: "8e43ead0",
+		type: "item",
+		items: [{
+			item: "buildcraftsilicon:redstone_chipset 1 2"
+		}]
+	}]
+}

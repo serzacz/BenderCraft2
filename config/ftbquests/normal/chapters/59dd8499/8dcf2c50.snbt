@@ -1,8 +1,12 @@
 {
-	x: 2.5d,
-	y: -3.0d,
+	x: -0.5d,
+	y: -10.0d,
+	dependencies: [
+		"b79153f8"
+	],
+	hide: true,
 	tasks: [{
-		uid: "38e24a6b",
+		uid: "66519352",
 		type: "item",
 		items: [{
 			ForgeCaps: {

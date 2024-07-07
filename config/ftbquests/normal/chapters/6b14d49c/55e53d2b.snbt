@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: -4.0d,
+	dependencies: [
+		"75459e0d"
+	],
+	tasks: [{
+		uid: "e8a6b47e",
+		type: "item",
+		items: [{
+			item: "betterwithmods:cooking_pot 1 1"
+		}]
+	}]
+}

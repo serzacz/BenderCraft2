@@ -1,0 +1,15 @@
+{
+	x: -4.5d,
+	y: -5.0d,
+	dependencies: [
+		"3e9f40dd"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8a3b8cd3",
+		type: "item",
+		items: [{
+			item: "betterwithmods:material 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: -3.0d,
+	dependencies: [
+		"20ddafb1"
+	],
+	tasks: [{
+		uid: "632d0d1f",
+		type: "item",
+		items: [{
+			item: "betterwithmods:bellows"
+		}]
+	}]
+}

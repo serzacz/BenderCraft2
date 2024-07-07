@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "cc0148af",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_survival"
+			}
+		}]
+	}]
+}

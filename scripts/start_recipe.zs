@@ -193,19 +193,17 @@ recipes.addShaped(<harvestcraft:garliccoinitem>, [[<ore:nuggetGold>, <ore:ingotG
 // #AROMA - mining tools
 recipes.remove(<aroma1997sdimension:dimensionchanger>);
 recipes.remove(<aroma1997sdimension:miningmultitool>);
-recipes.addShaped(<aroma1997sdimension:dimensionchanger>, [[<ore:manaPearl>, <ore:blockEmerald>, <ore:manaPearl>], [<ore:blockEmerald>, <astralsorcery:blockmarble:5>, <ore:blockEmerald>], [<ore:manaPearl>, <bloodmagic:blood_shard>, <ore:manaPearl>]]);
+recipes.addShaped(<aroma1997sdimension:dimensionchanger>, [
+	[<ore:manaPearl>, <ore:blockEmerald>, <ore:manaPearl>], 
+	[<ore:blockEmerald>, <astralsorcery:blockmarble:5>, <ore:blockEmerald>], 
+	[<ore:manaPearl>, <bloodmagic:blood_shard>, <ore:manaPearl>]
+	]);
 mods.botania.ElvenTrade.addRecipe([<aroma1997sdimension:miningmultitool>], [<aroma1997sdimension:dimensionchanger>]);
 
 // # 
 recipes.remove(<aroma1997sdimension:portalframe>);
 recipes.addShaped(<aroma1997sdimension:portalframe> * 2, [[null, <ore:bricksStone>, null], [<ore:bricksStone>, <betterwithmods:material:45>, <ore:bricksStone>], [null, <ore:bricksStone>, null]]);
 
-recipes.remove(<extrautils2:machine>);
-recipes.addShaped(<extrautils2:machine>, [
-	[<ore:slabStone>, <ore:slabStone>, <ore:slabStone>], 
-	[<forestry:thermionic_tubes:1>, <ic2:crafting:6>, <forestry:thermionic_tubes:1>], 
-	[<extrautils2:decorativesolid:3>, <extrautils2:user>, <extrautils2:decorativesolid:3>]
-	]);
 
 recipes.addShaped(<aether_legacy:aether_portal_frame>, [
 	[<ore:glowstone>, <ore:glowstone>, <ore:glowstone>], 
@@ -215,10 +213,18 @@ recipes.addShaped(<aether_legacy:aether_portal_frame>, [
 
 
 recipes.remove(<harvestcraft:market>);
-recipes.addShaped(<harvestcraft:market>, [[<ore:logWood>, <ore:blockEmerald>, <ore:logWood>], [<ore:blockEmerald>, <ore:bookshelf>, <ore:blockEmerald>], [<ore:logWood>, <ore:blockEmerald>, <ore:logWood>]]);
+recipes.addShaped(<harvestcraft:market>, [
+	[<ore:logWood>, <ore:blockEmerald>, <ore:logWood>], 
+	[<ore:blockEmerald>, <ore:bookshelf>, <ore:blockEmerald>], 
+	[<ore:logWood>, <ore:blockEmerald>, <ore:logWood>]
+	]);
 
 recipes.remove(<storagedrawers:controller>);
-recipes.addShaped(<storagedrawers:controller>, [[<ore:stone>, <ore:stone>, <ore:stone>], [<forestry:thermionic_tubes:4>, <ore:drawerBasic>, <forestry:thermionic_tubes:4>], [<ore:stone>, <ore:gemDiamond>, <ore:stone>]]);
+recipes.addShaped(<storagedrawers:controller>, [
+	[<ore:stone>, <ore:stone>, <ore:stone>], 
+	[<forestry:thermionic_tubes:4>, <ore:drawerBasic>, <forestry:thermionic_tubes:4>], 
+	[<ore:stone>, <ore:gemDiamond>, <ore:stone>]
+	]);
 
 
 

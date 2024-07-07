@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: -2.0d,
+	dependencies: [
+		"6d44691a"
+	],
+	tasks: [{
+		uid: "cba5306b",
+		type: "item",
+		items: [{
+			item: "betterwithmods:urn"
+		}]
+	}]
+}

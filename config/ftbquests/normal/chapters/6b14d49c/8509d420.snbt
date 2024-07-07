@@ -1,0 +1,16 @@
+{
+	title: "Vetrny mlyn",
+	x: -1.5d,
+	y: -5.0d,
+	dependencies: [
+		"ef169286",
+		"890a31ae"
+	],
+	tasks: [{
+		uid: "2b462b88",
+		type: "item",
+		items: [{
+			item: "betterwithmods:axle_generator"
+		}]
+	}]
+}

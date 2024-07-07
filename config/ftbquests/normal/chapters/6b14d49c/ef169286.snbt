@@ -1,0 +1,17 @@
+{
+	title: "Hnaci tyc",
+	icon: "betterwithmods:wooden_axle",
+	x: -2.5d,
+	y: -6.0d,
+	dependencies: [
+		"75459e0d"
+	],
+	tasks: [{
+		uid: "6bdc35c0",
+		type: "item",
+		items: [{
+			item: "betterwithmods:wooden_axle"
+		}],
+		count: 6L
+	}]
+}

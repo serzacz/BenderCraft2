@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	dependencies: [
+		"00af4b98"
+	],
+	tasks: [{
+		uid: "690295c1",
+		type: "item",
+		items: [{
+			item: "betterwithmods:hibachi"
+		}]
+	}]
+}

@@ -15,7 +15,7 @@
   },
   "buildcraftsilicon:all_tables": {
     "ledger.power.is_open": {
-      "boolean": false
+      "boolean": true
     }
   }
 }

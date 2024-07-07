@@ -1,0 +1,17 @@
+{
+	title: "Kiln",
+	x: 0.5d,
+	y: -2.0d,
+	dependencies: [
+		"20ddafb1",
+		"73540e91"
+	],
+	tasks: [{
+		uid: "b2a5da9d",
+		type: "item",
+		items: [{
+			item: "minecraft:brick_block"
+		}],
+		count: 4L
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "Prevodovka",
+	icon: "betterwithmods:wooden_gearbox",
+	x: -2.5d,
+	y: -5.0d,
+	dependencies: [
+		"75459e0d"
+	],
+	tasks: [{
+		uid: "3dc12a38",
+		type: "item",
+		items: [{
+			item: "betterwithmods:wooden_gearbox"
+		}],
+		count: 2L
+	}]
+}

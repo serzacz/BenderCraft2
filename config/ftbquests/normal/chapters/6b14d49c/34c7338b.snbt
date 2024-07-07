@@ -1,0 +1,15 @@
+{
+	x: -2.5d,
+	y: -3.0d,
+	dependencies: [
+		"a9e0030b"
+	],
+	optional: true,
+	tasks: [{
+		uid: "80393bbf",
+		type: "item",
+		items: [{
+			item: "betterwithmods:axle_generator 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: -1.0d,
+	dependencies: [
+		"5d854914"
+	],
+	tasks: [{
+		uid: "4e2f7bf6",
+		type: "item",
+		items: [{
+			item: "buildcraftsilicon:laser"
+		}]
+	}]
+}

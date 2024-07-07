@@ -1,0 +1,23 @@
+{
+	title: "Mlynek",
+	icon: "betterwithmods:single_machine",
+	x: -3.5d,
+	y: -5.0d,
+	dependencies: [
+		"72e86310"
+	],
+	tasks: [{
+		uid: "0065587e",
+		type: "item",
+		items: [{
+			item: "betterwithmods:single_machine"
+		}]
+	},
+	{
+		uid: "72001b98",
+		type: "item",
+		items: [{
+			item: "betterwithmods:hand_crank"
+		}]
+	}]
+}

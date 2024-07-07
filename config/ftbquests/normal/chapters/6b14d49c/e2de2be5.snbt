@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: -4.0d,
+	dependencies: [
+		"2e73c46f",
+		"8509d420"
+	],
+	tasks: [{
+		uid: "01ddf3e8",
+		type: "item",
+		items: [{
+			item: "betterwithmods:saw"
+		}]
+	}]
+}

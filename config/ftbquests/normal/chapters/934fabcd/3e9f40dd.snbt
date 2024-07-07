@@ -1,0 +1,14 @@
+{
+	x: -5.5d,
+	y: 0.0d,
+	dependencies: [
+		"2e20f4bf"
+	],
+	tasks: [{
+		uid: "cbc843d2",
+		type: "item",
+		items: [{
+			item: "betterwithmods:hemp"
+		}]
+	}]
+}

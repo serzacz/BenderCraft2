@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: -2.0d,
+	dependencies: [
+		"709469e5",
+		"a93a495b"
+	],
+	tasks: [{
+		uid: "db6842b7",
+		type: "item",
+		items: [{
+			item: "betterwithmods:steel_anvil"
+		}]
+	}]
+}
