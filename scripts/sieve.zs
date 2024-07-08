@@ -50,7 +50,7 @@ Sieve.addDiamondMeshRecipe(<minecraft:sand>, <exnihilocreatio:item_ore_aluminium
 Sieve.addDiamondMeshRecipe(<minecraft:sand>, <astralsorcery:itemcraftingcomponent>, 0.15);
 Sieve.addDiamondMeshRecipe(<minecraft:sand>, <appliedenergistics2:material>, 0.1);
 Sieve.addDiamondMeshRecipe(<minecraft:sand>, <exnihilocreatio:item_ore_uranium>, 0.1);
-
+Sieve.addDiamondMeshRecipe(<minecraft:sand>, <appliedenergistics2:material:1>, 0.01);
 
 // #DUST
 Sieve.addStringMeshRecipe(<exnihilocreatio:block_dust>, <minecraft:dye:15>, 0.2);
@@ -71,7 +71,7 @@ Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <minecraft:dye:4>, 0.2)
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <minecraft:blaze_powder>, 0.1);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <appliedenergistics2:material:2>, 0.1);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <appliedenergistics2:material:45>, 0.05);
-Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <appliedenergistics2:crystal_seed>.withTag({progress: 0}), 0.01);
+
 
 
 // #DIRT
