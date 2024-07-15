@@ -1,0 +1,23 @@
+{
+	title: "Lisovani",
+	icon: "embers:stamper_base",
+	x: 1.0d,
+	y: -1.0d,
+	dependencies: [
+		"1947d7d7"
+	],
+	tasks: [{
+		uid: "56ded170",
+		type: "item",
+		items: [{
+			item: "embers:stamper_base"
+		}]
+	},
+	{
+		uid: "d6c131f5",
+		type: "item",
+		items: [{
+			item: "embers:stamper"
+		}]
+	}]
+}

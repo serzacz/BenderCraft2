@@ -1,0 +1,17 @@
+{
+	title: "NuclearCraft",
+	icon: "nuclearcraft:nuclear_furnace_idle",
+	x: -1.5d,
+	y: 0.5d,
+	dependencies: [
+		"b6eb3f4b",
+		"a13257ae"
+	],
+	tasks: [{
+		uid: "5e3a3fb5",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:nuclear_furnace_idle"
+		}]
+	}]
+}

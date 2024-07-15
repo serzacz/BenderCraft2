@@ -1,0 +1,33 @@
+{
+	x: 0.0d,
+	y: 0.5d,
+	dependencies: [
+		"1947d7d7"
+	],
+	optional: true,
+	tasks: [{
+		uid: "d4d70aca",
+		type: "item",
+		items: [{
+			id: "embers:copper_cell",
+			tag: {
+				emberCapacity: 24000.0d,
+				ember: 0.0d
+			}
+		}]
+	},
+	{
+		uid: "44a023c1",
+		type: "item",
+		items: [{
+			item: "embers:ember_gauge"
+		}]
+	},
+	{
+		uid: "da0d6d27",
+		type: "item",
+		items: [{
+			item: "embers:fluid_gauge"
+		}]
+	}]
+}

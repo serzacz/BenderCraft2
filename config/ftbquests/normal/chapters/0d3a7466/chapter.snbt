@@ -1,0 +1,7 @@
+{
+	title: "Magic",
+	icon: "extrautils2:decorativesolidwood 1 1",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

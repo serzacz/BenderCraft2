@@ -1,0 +1,21 @@
+{
+	title: "Zmena biomu",
+	x: 4.0d,
+	y: 2.0d,
+	text: [
+		"Kliknutim do vzduchu v hunting dimenzi se jeden chunk zmeni na pozadovany biom, napriklad witchky se spawnuji pouze ve swamplandu, je treba pouzit tento nastroj a par chunku si zmenit. Chunk vypada porad stejne, ale spawnuji se mobove podle biomu ktery najdete pod minimapou. Projdete si recepisy, lze udelat treba peklo nebo end :D"
+	],
+	dependencies: [
+		"0492e39f"
+	],
+	tasks: [{
+		uid: "f8c50ee7",
+		type: "item",
+		items: [{
+			id: "huntingdim:biome_changer",
+			tag: {
+				HeldBiome: 1
+			}
+		}]
+	}]
+}

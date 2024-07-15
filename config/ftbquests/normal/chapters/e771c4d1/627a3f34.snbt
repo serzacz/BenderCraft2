@@ -1,0 +1,21 @@
+{
+	x: -2.0d,
+	y: -1.0d,
+	dependencies: [
+		"d43282d3"
+	],
+	tasks: [{
+		uid: "8a5f3337",
+		type: "item",
+		items: [{
+			item: "embers:crystal_ember"
+		}]
+	},
+	{
+		uid: "ecdfd0a6",
+		type: "item",
+		items: [{
+			item: "embers:shard_ember"
+		}]
+	}]
+}

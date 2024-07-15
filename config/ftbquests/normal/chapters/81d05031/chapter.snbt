@@ -1,0 +1,7 @@
+{
+	title: "Suroviny",
+	icon: "minecraft:iron_ore",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

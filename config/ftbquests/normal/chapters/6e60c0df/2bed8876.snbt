@@ -1,0 +1,13 @@
+{
+	title: "Vstup do Hunting dimenze",
+	x: 4.0d,
+	y: -1.0d,
+	dependencies: [
+		"1e2a99a7"
+	],
+	tasks: [{
+		uid: "d8a8a0ca",
+		type: "dimension",
+		dim: 28885
+	}]
+}

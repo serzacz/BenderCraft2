@@ -1,0 +1,16 @@
+{
+	title: "Avaritia",
+	icon: "avaritia:resource 1 5",
+	x: -0.5d,
+	y: 5.0d,
+	dependencies: [
+		"54b1343e"
+	],
+	tasks: [{
+		uid: "265ae0b6",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 5"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "Laser",
+	icon: "buildcraftsilicon:assembly_table",
+	x: -4.0d,
+	y: -1.5d,
+	dependencies: [
+		"c6951085"
+	],
+	tasks: [{
+		uid: "c8b65112",
+		type: "item",
+		items: [{
+			item: "buildcraftsilicon:assembly_table"
+		}]
+	}]
+}

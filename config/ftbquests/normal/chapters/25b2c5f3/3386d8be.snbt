@@ -1,0 +1,22 @@
+{
+	title: "GalactiCraft",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "galacticraftcore:rocket_t1"
+	},
+	x: -0.5d,
+	y: 1.5d,
+	dependencies: [
+		"2642c436"
+	],
+	tasks: [{
+		uid: "0635fe90",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:meteoric_iron_raw"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -1.0d,
+	y: 0.5d,
+	dependencies: [
+		"995f76df"
+	],
+	optional: true,
+	tasks: [{
+		uid: "f33e33af",
+		type: "item",
+		items: [{
+			item: "embers:boiler"
+		}]
+	}]
+}

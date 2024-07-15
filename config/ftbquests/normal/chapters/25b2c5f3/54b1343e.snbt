@@ -1,0 +1,28 @@
+{
+	title: "ProjectE",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "projecte:item.pe_philosophers_stone",
+		tag: {}
+	},
+	x: -0.5d,
+	y: 4.0d,
+	dependencies: [
+		"f5cd9d3c"
+	],
+	tasks: [{
+		uid: "b8c0f6a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_philosophers_stone",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

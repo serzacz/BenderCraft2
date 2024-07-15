@@ -6,7 +6,7 @@ recipes.remove(<mekanism:basicblock:8>);
 
 // add
 recipes.addShaped(<mekanism:machineblock:8>, [
-	[<ore:plateIron>, <ic2:te:46>, <ore:plateIron>], 
+	[<ore:heavyPlateLead>, <ic2:te:46>, <ore:heavyPlateLead>], 
 	[<enderio:item_basic_capacitor>, <buildcraftsilicon:redstone_chipset:1>, <enderio:item_basic_capacitor>], 
 	[<ore:ingotOsmium>, <ic2:te:46>, <ore:ingotOsmium>]
 	]);

@@ -1,0 +1,14 @@
+{
+	title: "Vstup do Aroma Dimenze",
+	x: -3.5d,
+	y: -2.0d,
+	dependencies: [
+		"2bc6ef4f",
+		"293f688a"
+	],
+	tasks: [{
+		uid: "a05ced8a",
+		type: "dimension",
+		dim: -6
+	}]
+}

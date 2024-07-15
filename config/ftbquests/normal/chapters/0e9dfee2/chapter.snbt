@@ -7,6 +7,6 @@
 		id: "ic2:forge_hammer"
 	},
 	always_invisible: false,
-	group: 0,
+	group: -1337451530,
 	default_quest_shape: ""
 }

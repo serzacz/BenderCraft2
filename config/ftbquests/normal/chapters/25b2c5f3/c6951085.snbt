@@ -1,0 +1,33 @@
+{
+	title: "IC2",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "ic2:forge_hammer"
+	},
+	x: -2.5d,
+	y: -2.5d,
+	dependencies: [
+		"f6a60b3d"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "b7534847",
+		type: "item",
+		items: [{
+			id: "ic2:lapotron_crystal",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "aac8e686",
+		type: "item",
+		items: [{
+			item: "ic2:plate 1 12"
+		}]
+	}]
+}

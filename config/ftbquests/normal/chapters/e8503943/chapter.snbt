@@ -2,6 +2,6 @@
 	title: "Laser",
 	icon: "buildcraftsilicon:assembly_table",
 	always_invisible: false,
-	group: 0,
+	group: -1337451530,
 	default_quest_shape: ""
 }

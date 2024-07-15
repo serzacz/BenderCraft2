@@ -1,0 +1,22 @@
+{
+	title: "Formy pro lis",
+	x: 1.0d,
+	y: -2.5d,
+	dependencies: [
+		"0369cc89"
+	],
+	tasks: [{
+		uid: "b4321b5f",
+		type: "item",
+		items: [{
+			item: "embers:stamp_bar"
+		}]
+	},
+	{
+		uid: "7d6bec1a",
+		type: "item",
+		items: [{
+			item: "embers:stamp_plate"
+		}]
+	}]
+}

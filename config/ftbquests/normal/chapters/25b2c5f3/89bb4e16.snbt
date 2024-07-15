@@ -1,0 +1,17 @@
+{
+	title: "MagnetiCraft",
+	icon: "magneticraft:crushing_table",
+	x: -0.5d,
+	y: -0.5d,
+	dependencies: [
+		"bd1da719"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "c9bf91da",
+		type: "item",
+		items: [{
+			item: "magneticraft:heavy_plates 1 6"
+		}]
+	}]
+}

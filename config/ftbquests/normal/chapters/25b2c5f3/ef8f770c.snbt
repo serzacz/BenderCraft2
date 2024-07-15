@@ -1,0 +1,17 @@
+{
+	title: "Applied Energistics",
+	icon: "appliedenergistics2:controller",
+	x: -5.5d,
+	y: 0.0d,
+	dependencies: [
+		"b6eb3f4b"
+	],
+	optional: true,
+	tasks: [{
+		uid: "4df63e88",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 360"
+		}]
+	}]
+}

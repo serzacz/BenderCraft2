@@ -1,0 +1,57 @@
+{
+	title: "Advanced runy",
+	x: 2.5d,
+	y: 0.0d,
+	dependencies: [
+		"6ca6a6f6"
+	],
+	tasks: [{
+		uid: "ceff4f05",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 9"
+		}]
+	},
+	{
+		uid: "d654ff9e",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 10"
+		}]
+	},
+	{
+		uid: "571fd018",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 11"
+		}]
+	},
+	{
+		uid: "2b5576b9",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 12"
+		}]
+	},
+	{
+		uid: "f543ee90",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 13"
+		}]
+	},
+	{
+		uid: "dcd1300c",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 14"
+		}]
+	},
+	{
+		uid: "5b5e1554",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 15"
+		}]
+	}]
+}

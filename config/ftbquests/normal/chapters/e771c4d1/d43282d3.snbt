@@ -1,0 +1,23 @@
+{
+	title: "Tezeni ember crystalu",
+	icon: "embers:ember_bore",
+	x: -3.0d,
+	y: -1.0d,
+	dependencies: [
+		"c1707458"
+	],
+	tasks: [{
+		uid: "d50cbed2",
+		type: "item",
+		items: [{
+			item: "embers:ember_bore"
+		}]
+	},
+	{
+		uid: "fa0c9651",
+		type: "item",
+		items: [{
+			item: "embers:mech_core"
+		}]
+	}]
+}

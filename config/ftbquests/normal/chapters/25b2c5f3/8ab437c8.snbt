@@ -1,0 +1,27 @@
+{
+	title: "Slepice",
+	icon: {
+		id: "roost:chicken",
+		tag: {
+			Chicken: "minecraft:chicken"
+		}
+	},
+	x: 5.0d,
+	y: 1.0d,
+	dependencies: [
+		"f912e858"
+	],
+	tasks: [{
+		uid: "959b218a",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:draconiumawakenedchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}]
+}

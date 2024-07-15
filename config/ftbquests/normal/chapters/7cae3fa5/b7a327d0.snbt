@@ -1,0 +1,21 @@
+{
+	x: 1.0d,
+	y: 2.0d,
+	dependencies: [
+		"9e0d3c06"
+	],
+	optional: true,
+	tasks: [{
+		uid: "46cdc88a",
+		type: "item",
+		items: [{
+			item: "botania:teruterubozu"
+		}]
+	}],
+	rewards: [{
+		uid: "50e9509e",
+		type: "item",
+		item: "minecraft:double_plant",
+		count: 32
+	}]
+}

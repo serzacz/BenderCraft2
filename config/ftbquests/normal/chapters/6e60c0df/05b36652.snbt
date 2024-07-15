@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: -1.0d,
+	dependencies: [
+		"2bed8876"
+	],
+	tasks: [{
+		uid: "3162466b",
+		type: "item",
+		items: [{
+			item: "chisel:marble2 1 7"
+		}]
+	}]
+}

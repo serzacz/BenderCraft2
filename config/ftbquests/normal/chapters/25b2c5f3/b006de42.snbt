@@ -1,0 +1,16 @@
+{
+	title: "Blood Magic",
+	icon: "bloodmagic:altar",
+	x: 2.5d,
+	y: -0.5d,
+	dependencies: [
+		"bfb52d42"
+	],
+	tasks: [{
+		uid: "1801aeb5",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_shard"
+		}]
+	}]
+}

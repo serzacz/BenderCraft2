@@ -1,0 +1,25 @@
+{
+	title: "Embers Rekindled",
+	icon: "embers:ember_activator",
+	x: -1.5d,
+	y: -1.5d,
+	dependencies: [
+		"92c008c4",
+		"c6951085"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "8d41947e",
+		type: "item",
+		items: [{
+			item: "embers:crystal_ember"
+		}]
+	},
+	{
+		uid: "faabff5b",
+		type: "item",
+		items: [{
+			item: "embers:winding_gears"
+		}]
+	}]
+}

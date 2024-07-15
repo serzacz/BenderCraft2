@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: -1.0d,
+	dependencies: [
+		"94f16520",
+		"f7b380c6"
+	],
+	tasks: [{
+		uid: "27a798a5",
+		type: "item",
+		items: [{
+			item: "embers:winding_gears"
+		}]
+	}]
+}

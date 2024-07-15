@@ -1,0 +1,24 @@
+{
+	title: "Mixovani kovu",
+	icon: "embers:mixer",
+	x: 0.0d,
+	y: -1.0d,
+	dependencies: [
+		"995f76df"
+	],
+	tasks: [{
+		uid: "162792d8",
+		type: "item",
+		items: [{
+			item: "embers:block_furnace"
+		}],
+		count: 2L
+	},
+	{
+		uid: "6606c895",
+		type: "item",
+		items: [{
+			item: "embers:mixer"
+		}]
+	}]
+}

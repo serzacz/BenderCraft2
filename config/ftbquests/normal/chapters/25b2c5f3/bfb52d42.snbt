@@ -1,0 +1,23 @@
+{
+	title: "Botania",
+	icon: "botania:flower",
+	x: 2.5d,
+	y: -1.5d,
+	dependencies: [
+		"92c008c4"
+	],
+	tasks: [{
+		uid: "e5375738",
+		type: "item",
+		items: [{
+			item: "botania:runealtar"
+		}]
+	},
+	{
+		uid: "9822c0a8",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	}]
+}

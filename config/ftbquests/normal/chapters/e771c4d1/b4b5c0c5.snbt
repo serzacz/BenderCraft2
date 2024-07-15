@@ -1,0 +1,23 @@
+{
+	title: "Vyrobna Ash",
+	icon: "embers:cinder_plinth",
+	x: 2.0d,
+	y: -1.0d,
+	dependencies: [
+		"0369cc89"
+	],
+	tasks: [{
+		uid: "db8a5354",
+		type: "item",
+		items: [{
+			item: "embers:cinder_plinth"
+		}]
+	},
+	{
+		uid: "57530b4f",
+		type: "item",
+		items: [{
+			item: "embers:bin"
+		}]
+	}]
+}

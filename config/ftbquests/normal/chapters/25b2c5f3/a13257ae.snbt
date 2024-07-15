@@ -1,0 +1,28 @@
+{
+	title: "Mekanism",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "mekanism:machineblock",
+		Damage: 4s
+	},
+	x: -2.5d,
+	y: -0.5d,
+	dependencies: [
+		"bd1da719",
+		"89bb4e16",
+		"caed699e"
+	],
+	tasks: [{
+		uid: "58034853",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock"
+		}],
+		ignore_nbt: 1b
+	}]
+}

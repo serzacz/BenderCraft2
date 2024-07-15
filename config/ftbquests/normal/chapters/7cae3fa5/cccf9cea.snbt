@@ -1,0 +1,36 @@
+{
+	title: "Sezonni runy",
+	x: 3.5d,
+	y: -0.5d,
+	dependencies: [
+		"6ca6a6f6"
+	],
+	tasks: [{
+		uid: "9fd05591",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 4"
+		}]
+	},
+	{
+		uid: "ab5e9c4e",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 5"
+		}]
+	},
+	{
+		uid: "65cdd40f",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 6"
+		}]
+	},
+	{
+		uid: "3c71c6bf",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 7"
+		}]
+	}]
+}

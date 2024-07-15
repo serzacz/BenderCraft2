@@ -1,0 +1,40 @@
+{
+	title: "Vyroba Terrasteelu",
+	icon: "botania:terraplate",
+	x: 4.0d,
+	y: -3.0d,
+	dependencies: [
+		"060575d3",
+		"65682f4a"
+	],
+	tasks: [{
+		uid: "b06b9ef2",
+		type: "item",
+		items: [{
+			item: "botania:terraplate"
+		}]
+	},
+	{
+		uid: "c3ec6176",
+		type: "item",
+		items: [{
+			item: "minecraft:lapis_block"
+		}],
+		count: 4L
+	},
+	{
+		uid: "29cca954",
+		type: "item",
+		items: [{
+			item: "botania:livingrock"
+		}],
+		count: 5L
+	},
+	{
+		uid: "90d6e052",
+		type: "item",
+		items: [{
+			item: "botania:spark"
+		}]
+	}]
+}

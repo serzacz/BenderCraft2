@@ -1,0 +1,22 @@
+{
+	x: -0.5d,
+	y: -6.0d,
+	dependencies: [
+		"27563fee"
+	],
+	tasks: [{
+		uid: "859eb613",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:twigwand",
+			tag: {
+				color1: 0,
+				color2: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

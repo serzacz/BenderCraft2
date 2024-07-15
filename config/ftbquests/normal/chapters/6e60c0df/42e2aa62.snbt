@@ -1,0 +1,19 @@
+{
+	x: 1.0d,
+	y: -1.0d,
+	dependencies: [
+		"75ede9b2"
+	],
+	tasks: [{
+		uid: "1cc6ffac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:suncrystal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

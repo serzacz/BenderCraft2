@@ -1,0 +1,29 @@
+{
+	title: "Presun kapalin",
+	x: 0.0d,
+	y: -2.5d,
+	dependencies: [
+		"1947d7d7"
+	],
+	tasks: [{
+		uid: "900504fa",
+		type: "item",
+		items: [{
+			item: "embers:pump"
+		}]
+	},
+	{
+		uid: "ad0b22a8",
+		type: "item",
+		items: [{
+			item: "embers:pipe"
+		}]
+	},
+	{
+		uid: "4d7101c6",
+		type: "item",
+		items: [{
+			item: "embers:caminite_lever"
+		}]
+	}]
+}

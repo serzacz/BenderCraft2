@@ -1,0 +1,28 @@
+{
+	title: "Astral Sorcery",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "astralsorcery:blockaltar",
+		Damage: 2s
+	},
+	x: 4.0d,
+	y: 1.5d,
+	dependencies: [
+		"f0a239b2",
+		"8af71bc5"
+	],
+	tasks: [{
+		uid: "41887cc6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

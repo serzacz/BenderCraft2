@@ -1,0 +1,29 @@
+{
+	title: "Presun itemu",
+	x: -3.0d,
+	y: -2.5d,
+	dependencies: [
+		"d43282d3"
+	],
+	tasks: [{
+		uid: "c2f4c74c",
+		type: "item",
+		items: [{
+			item: "embers:item_pump"
+		}]
+	},
+	{
+		uid: "1ca65209",
+		type: "item",
+		items: [{
+			item: "embers:item_pipe"
+		}]
+	},
+	{
+		uid: "051e25f9",
+		type: "item",
+		items: [{
+			item: "embers:caminite_lever"
+		}]
+	}]
+}

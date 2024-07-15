@@ -1,0 +1,48 @@
+{
+	title: "Elfi brana",
+	icon: "botania:alfheimportal",
+	x: 7.0d,
+	y: -3.0d,
+	dependencies: [
+		"55d245cd"
+	],
+	tasks: [{
+		uid: "2339c303",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	},
+	{
+		uid: "5f01c147",
+		type: "item",
+		items: [{
+			item: "botania:livingwood"
+		}],
+		count: 8L
+	},
+	{
+		uid: "fe1724ea",
+		type: "item",
+		items: [{
+			item: "botania:livingwood 1 5"
+		}],
+		count: 3L
+	},
+	{
+		uid: "b83303c0",
+		type: "item",
+		items: [{
+			item: "botania:pool"
+		}],
+		count: 2L
+	},
+	{
+		uid: "38a30f84",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 1"
+		}],
+		count: 2L
+	}]
+}

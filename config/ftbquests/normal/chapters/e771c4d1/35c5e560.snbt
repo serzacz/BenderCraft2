@@ -1,0 +1,47 @@
+{
+	title: "Prenos ember energie a Linkovani",
+	x: -1.0d,
+	y: -2.5d,
+	dependencies: [
+		"995f76df"
+	],
+	tasks: [{
+		uid: "6baf4444",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:tinker_hammer",
+			tag: {
+				targetZ: 6040,
+				targetY: 8,
+				targetX: -5998,
+				targetWorld: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "14411bea",
+		type: "item",
+		items: [{
+			item: "embers:ember_emitter"
+		}]
+	},
+	{
+		uid: "4dc71c96",
+		type: "item",
+		items: [{
+			item: "embers:ember_receiver"
+		}]
+	},
+	{
+		uid: "07719b01",
+		type: "item",
+		items: [{
+			item: "embers:caminite_lever"
+		}]
+	}]
+}

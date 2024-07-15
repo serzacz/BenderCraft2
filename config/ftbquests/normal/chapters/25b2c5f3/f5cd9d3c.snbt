@@ -1,0 +1,17 @@
+{
+	title: "Draconic",
+	icon: "draconicevolution:awakened_core",
+	x: -0.5d,
+	y: 3.0d,
+	dependencies: [
+		"3386d8be",
+		"b60c0629"
+	],
+	tasks: [{
+		uid: "ccd51209",
+		type: "item",
+		items: [{
+			item: "draconicevolution:awakened_core"
+		}]
+	}]
+}

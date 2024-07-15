@@ -1,0 +1,15 @@
+{
+	x: -6.5d,
+	y: -1.5d,
+	dependencies: [
+		"c5497cad"
+	],
+	tasks: [{
+		uid: "2ba37460",
+		type: "item",
+		items: [{
+			item: "betterwithmods:material 1 45"
+		}],
+		count: 7L
+	}]
+}

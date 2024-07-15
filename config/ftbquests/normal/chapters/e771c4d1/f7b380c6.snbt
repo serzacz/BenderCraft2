@@ -1,0 +1,39 @@
+{
+	title: "Alchymie",
+	icon: "embers:alchemy_tablet",
+	x: 3.0d,
+	y: -1.0d,
+	dependencies: [
+		"b4b5c0c5",
+		"c00fe90c"
+	],
+	tasks: [{
+		uid: "59bd15a3",
+		type: "item",
+		items: [{
+			item: "embers:alchemy_tablet"
+		}]
+	},
+	{
+		uid: "235da488",
+		type: "item",
+		items: [{
+			item: "embers:alchemy_pedestal"
+		}],
+		count: 2L
+	},
+	{
+		uid: "48694549",
+		type: "item",
+		items: [{
+			item: "embers:beam_cannon"
+		}]
+	},
+	{
+		uid: "422c93af",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_button"
+		}]
+	}]
+}

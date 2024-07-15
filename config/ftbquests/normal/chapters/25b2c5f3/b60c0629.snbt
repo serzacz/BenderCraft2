@@ -1,0 +1,22 @@
+{
+	title: "Aether Dimenze",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "aether_legacy:aether_portal_frame"
+	},
+	x: 4.0d,
+	y: 3.0d,
+	dependencies: [
+		"f912e858"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "99d74e4e",
+		type: "item",
+		items: [{
+			item: "aether_legacy:enchanted_gravitite"
+		}]
+	}]
+}

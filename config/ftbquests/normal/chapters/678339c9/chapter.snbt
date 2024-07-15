@@ -1,0 +1,12 @@
+{
+	title: "Aroma",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "aroma1997sdimension:miningmultitool"
+	},
+	always_invisible: false,
+	group: -793747602,
+	default_quest_shape: ""
+}

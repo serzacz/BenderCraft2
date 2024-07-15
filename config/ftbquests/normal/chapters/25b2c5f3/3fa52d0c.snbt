@@ -1,0 +1,26 @@
+{
+	title: "Refined Storage",
+	x: -5.5d,
+	y: 1.0d,
+	dependencies: [
+		"b6eb3f4b"
+	],
+	optional: true,
+	tasks: [{
+		uid: "b765d766",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -5022941005613698572L,
+					AS_Amulet_HolderMost: -6548694837298313287L
+				}
+			},
+			id: "refinedstorage:controller",
+			tag: {
+				Energy: 32000
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Hunting Dimense",
+	icon: {
+		id: "huntingdim:frame",
+		tag: {
+			BaseBlock: {
+				id: "minecraft:log",
+				Count: 1b,
+				Damage: 0s
+			}
+		}
+	},
+	x: 4.0d,
+	y: -1.5d,
+	dependencies: [
+		"bfb52d42"
+	],
+	tasks: [{
+		uid: "888269bd",
+		type: "item",
+		items: [{
+			item: "chisel:marble2 1 7"
+		}]
+	}]
+}

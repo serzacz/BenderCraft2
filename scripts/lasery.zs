@@ -21,7 +21,7 @@ recipes.remove (<enderio:item_me_conduit:1>);
 recipes.remove (<enderio:item_refined_storage_conduit>);
 recipes.remove (<enderio:item_data_conduit>);
 
-recipes.remove (<enderio:item_basic_capacitor>);
+recipes.remove (<enderio:item_basic_capacitor:*>);
 
 
  
@@ -59,8 +59,8 @@ AssemblyTable.addRecipe("enderio_ender_fluid_conduit_v2", <enderio:item_liquid_c
 
 // # Capacitory
 
-AssemblyTable.addRecipe("enderio_capacitor_1", <enderio:item_basic_capacitor>, 10000, [<ore:dustBedrock>, <buildcraftsilicon:redstone_chipset>*2, <ore:ingotGold>*2]);
+AssemblyTable.addRecipe("enderio_capacitor_1", <enderio:item_basic_capacitor>, 40000, [<ore:dustBedrock>, <buildcraftsilicon:redstone_chipset>*2, <ore:ingotGold>*2]);
 
-AssemblyTable.addRecipe("enderio_capacitor_2", <enderio:item_basic_capacitor:1>, 20000, [<enderio:item_basic_capacitor>, <buildcraftsilicon:redstone_chipset:3>, <ore:ingotEnergeticAlloy>*2]);
+AssemblyTable.addRecipe("enderio_capacitor_2", <enderio:item_basic_capacitor:1>, 80000, [<enderio:item_basic_capacitor>, <buildcraftsilicon:redstone_chipset:3>, <ore:ingotEnergeticAlloy>*2]);
 
-AssemblyTable.addRecipe("enderio_capacitor_3", <enderio:item_basic_capacitor:2>, 40000, [<enderio:item_basic_capacitor:1>, <buildcraftsilicon:redstone_chipset:4>, <ore:ingotVibrantAlloy>*2]);
+AssemblyTable.addRecipe("enderio_capacitor_3", <enderio:item_basic_capacitor:2>, 120000, [<enderio:item_basic_capacitor:1>, <buildcraftsilicon:redstone_chipset:4>, <ore:ingotVibrantAlloy>*2]);

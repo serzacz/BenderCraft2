@@ -1,0 +1,27 @@
+{
+	title: "Aroma Dimense",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "aroma1997sdimension:miningmultitool"
+	},
+	x: 3.0d,
+	y: 0.5d,
+	dependencies: [
+		"b006de42",
+		"8af71bc5"
+	],
+	tasks: [{
+		uid: "0f679766",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aroma1997sdimension:miningmultitool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

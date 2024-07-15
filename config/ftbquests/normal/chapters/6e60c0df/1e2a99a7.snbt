@@ -1,0 +1,22 @@
+{
+	x: 2.5d,
+	y: -1.0d,
+	dependencies: [
+		"42e2aa62",
+		"547d4cc6"
+	],
+	tasks: [{
+		uid: "1324bcb1",
+		type: "item",
+		items: [{
+			id: "huntingdim:frame",
+			tag: {
+				BaseBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}]
+	}]
+}

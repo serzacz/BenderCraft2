@@ -1,0 +1,30 @@
+{
+	title: "Auto presivani",
+	icon: "exnihilocreatio:block_auto_sifter",
+	x: -6.5d,
+	y: 0.0d,
+	dependencies: [
+		"eb8b747a"
+	],
+	tasks: [{
+		uid: "3a6d41f6",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_auto_sifter"
+		}]
+	},
+	{
+		uid: "07218c57",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_waterwheel"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "c1fe6935",
+		type: "item",
+		item: "exnihilocreatio:block_axle_stone",
+		count: 2
+	}]
+}

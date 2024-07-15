@@ -1,0 +1,7 @@
+{
+	title: "Hunting Dimenze",
+	icon: "huntingdim:portal",
+	always_invisible: false,
+	group: -793747602,
+	default_quest_shape: ""
+}

@@ -30,10 +30,10 @@ recipes.addShaped(<embers:ingot_bronze>, [[<ore:nuggetBronze>, <ore:nuggetBronze
 
 // #OAK LOG 
 recipes.remove(<minecraft:log>);
-recipes.addShapeless(<minecraft:log>, [	
-	<ore:dustWood>, <ore:barkWood>, <ore:dustWood>, 
-	<ore:barkWood>, <ore:plankWood>, <ore:barkWood>, 
-	<ore:dustWood>, <ore:barkWood>, <ore:dustWood>
+recipes.addShaped(<minecraft:log>, [	
+	[<ore:dustWood>, <ore:barkWood>, <ore:dustWood>], 
+	[<ore:barkWood>, <ore:plankWood>, <ore:barkWood>], 
+	[<ore:dustWood>, <ore:barkWood>, <ore:dustWood>]
 ]);
 
 // # Generator DUST
@@ -55,6 +55,7 @@ recipes.addShaped(<ultimatecobblegen:cobblegenerator>, [
 	[<minecraft:lava_bucket>, <exnihilocreatio:block_crucible:1>, <ore:listAllwater>], 
 	[<ore:compressed1xCobblestone>, <tconstruct:wooden_hopper>, <ore:compressed1xCobblestone>]
 	]);
+	
 recipes.addShaped(<ultimatecobblegen:cobblegenerator>, [
 	[<ore:compressed1xCobblestone>, <excompressum:compressed_hammer_stone>, <ore:compressed1xCobblestone>], 
 	[<ceramics:clay_bucket>.withTag({fluids: {FluidName: "lava", Amount: 1000}}), <exnihilocreatio:block_crucible:1>, <ceramics:clay_bucket>.withTag({fluids: {FluidName: "water", Amount: 1000}})], 
@@ -165,22 +166,6 @@ recipes.addShaped(<astralsorcery:blockaltar>, [
 	]);
 
 
-recipes.remove(<ic2:tool_box>);
-recipes.addShaped(<ic2:tool_box>, [[<ic2:casing:1>, <ironchest:iron_chest:1>, <ic2:casing:1>], [<ic2:casing:1>, <ic2:casing:1>, <ic2:casing:1>]]);
-
-
-recipes.remove(<ic2:te:43>);
-recipes.addShaped(<ic2:te:43>, [[<ic2:casing:3>, <ore:craftingToolForgeHammer>, <ic2:casing:3>], [<minecraft:piston>, <ore:machineBlock>, <minecraft:piston>], [<ore:compressed2xCobblestone>, <ore:circuitBasic>, <ore:compressed2xCobblestone>]]);
-
-
-recipes.remove(<ic2:te:55>);
-recipes.addShaped(<ic2:te:55>, [[<ic2:tool_box>, <ore:circuitBasic>, <ic2:tool_box>], [<ic2:forge_hammer>, <ore:machineBlock>, <ic2:cutter>], [<ic2:crafting:5>, <ic2:crafting:5>, <ic2:crafting:5>]]);
-
-
-recipes.remove(<ic2:te:47>);
-recipes.addShaped(<ic2:te:47>, [[null, <ore:circuitBasic>, null], [<minecraft:flint>, <betterwithmods:single_machine>, <minecraft:flint>], [<ic2:crafting:5>, <ic2:resource:12>, <ic2:crafting:5>]]);
-
-
 recipes.remove(<tconstruct:tinker_tank_controller>);
 recipes.addShaped(<tconstruct:tinker_tank_controller>, [[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <minecraft:cauldron>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>]]);
 
@@ -227,6 +212,21 @@ recipes.addShaped(<storagedrawers:controller>, [
 	[<forestry:thermionic_tubes:4>, <ore:drawerBasic>, <forestry:thermionic_tubes:4>], 
 	[<ore:stone>, <ore:gemDiamond>, <ore:stone>]
 	]);
+
+
+recipes.remove(<minecraft:elytra>);
+recipes.addShaped(<minecraft:elytra>, [
+	[<forestry:thermionic_tubes:12>, <ore:dropRoyalJelly>, <forestry:thermionic_tubes:12>], 
+	[<forestry:crafting_material:1>, <astralsorcery:itemcape>.withTag({astralsorcery: {constellationName: "astralsorcery.constellation.vicio"}}), <forestry:crafting_material:1>], 
+	[<forestry:crafting_material:1>, <astralsorcery:itemcraftingcomponent:4>, <forestry:crafting_material:1>]
+	]);
+
+
+
+
+
+
+
 
 
 

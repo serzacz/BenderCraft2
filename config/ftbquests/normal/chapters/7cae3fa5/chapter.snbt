@@ -1,0 +1,7 @@
+{
+	title: "Botania",
+	icon: "botania:flower",
+	always_invisible: false,
+	group: 221934694,
+	default_quest_shape: ""
+}

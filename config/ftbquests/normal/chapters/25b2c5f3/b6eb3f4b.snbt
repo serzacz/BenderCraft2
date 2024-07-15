@@ -1,0 +1,17 @@
+{
+	title: "EnderIO",
+	icon: "enderio:item_material 1 44",
+	x: -4.0d,
+	y: 0.5d,
+	dependencies: [
+		"caed699e"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "375d4c2d",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 45"
+		}]
+	}]
+}

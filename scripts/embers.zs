@@ -3,6 +3,8 @@
 // remove
 recipes.remove(<embers:ember_activator>);
 recipes.remove(<embers:boiler>);
+recipes.remove(<embers:mech_core>);
+recipes.remove(<embers:ember_bore>);
 
 // add
 recipes.addShaped(<embers:ember_activator>, [
@@ -18,9 +20,17 @@ recipes.addShaped(<embers:boiler>, [
 	[<magneticraft:heavy_plates:3>, <ore:blockCopper>, <magneticraft:heavy_plates:3>]
 	]);
 
+recipes.addShaped(<embers:mech_core>, [
+	[<ore:plateIron>, <minecraft:compass>, <ore:plateIron>], 
+	[<betterwithmods:material:34>, <ore:plateDenseLead>, <betterwithmods:material:34>], 
+	[<ore:plateIron>, <ic2:te:3>, <ore:plateIron>]
+	]);
 
-
-
+recipes.addShaped(<embers:ember_bore>, [
+	[<embers:stairs_caminite_brick>, <ore:plateDenseObsidian>, <embers:stairs_caminite_brick>], 
+	[<embers:stairs_caminite_brick>, <embers:mech_core>, <embers:stairs_caminite_brick>], 
+	[<ore:gearBronze>, <ore:gearBronze>, <ore:gearBronze>]
+	]);
 
 
 

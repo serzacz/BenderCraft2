@@ -8,9 +8,10 @@ recipes.remove(<botania:alchemycatalyst>);
 recipes.remove(<bloodmagic:soul_snare>);
 recipes.remove(<botania:alfheimportal>);
 recipes.remove(<botania:opencrate>);
+recipes.remove(<botania:spreader>);
 mods.botania.ManaInfusion.removeRecipe(<botania:manaresource:1>);
 mods.botania.ManaInfusion.removeRecipe(<botania:manaresource:0>);
-
+mods.botania.ManaInfusion.removeRecipe(<botania:storage>);
 
 // add
 recipes.addShaped(<botania:alchemycatalyst>, [
@@ -30,12 +31,19 @@ recipes.addShaped(<botania:opencrate>, [
 	[<botania:livingwood:1>, <minecraft:dropper>, <botania:livingwood:1>], 
 	[<botania:livingwood:1>, null, <botania:livingwood:1>]
 	]);
-	
+
+recipes.addShaped(<botania:spreader>, [
+	[<ore:livingwood>, <ore:livingwood>, <ore:livingwood>], 
+	[<betterwithmods:material:34>, <botania:petal:*>, null], 
+	[<ore:livingwood>, <ore:livingwood>, <ore:livingwood>]
+	]);	
 	
 	
 // mana infusion	
 mods.botania.ManaInfusion.addInfusion(<botania:manaresource:1>, <minecraft:ender_eye>, 6000);	
-mods.botania.ManaInfusion.addInfusion(<botania:manaresource:0>, <ic2:ingot:5>, 3000);	
+mods.botania.ManaInfusion.addInfusion(<botania:manaresource:0>, <ic2:ingot:5>, 3000);
+mods.botania.ManaInfusion.addInfusion(<botania:storage>, <ore:blockSteel>, 27000);
+	
 
 
 // runic altar
