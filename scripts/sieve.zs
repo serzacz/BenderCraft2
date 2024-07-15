@@ -27,7 +27,7 @@ Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <exnihilocreatio:item_ore_osmium>
 Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <exnihilocreatio:item_ore_lead>, 0.15);
 Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <exnihilocreatio:item_ore_nickel>, 0.15);
 Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <minecraft:diamond>, 0.12);
-Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <minecraft:emerald>, 0.1);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <minecraft:emerald>, 0.08);
 
 
 // #SAND
@@ -42,14 +42,14 @@ Sieve.addFlintMeshRecipe(<minecraft:sand>, <nuclearcraft:gem_dust:6>, 0.1);
 Sieve.addIronMeshRecipe(<minecraft:sand>, <exnihilocreatio:item_ore_tin>, 0.2);
 Sieve.addIronMeshRecipe(<minecraft:sand>, <exnihilocreatio:item_ore_silver>, 0.1);
 Sieve.addIronMeshRecipe(<minecraft:sand>, <exnihilocreatio:item_ore_aluminium>, 0.1);
-Sieve.addIronMeshRecipe(<minecraft:sand>, <astralsorcery:itemcraftingcomponent>, 0.08);
+Sieve.addIronMeshRecipe(<minecraft:sand>, <astralsorcery:itemcraftingcomponent>, 0.03);
 
-Sieve.addDiamondMeshRecipe(<minecraft:sand>, <exnihilocreatio:item_ore_tin>, 0.3);
+Sieve.addDiamondMeshRecipe(<minecraft:sand>, <exnihilocreatio:item_ore_tin>, 0.4);
 Sieve.addDiamondMeshRecipe(<minecraft:sand>, <exnihilocreatio:item_ore_silver>, 0.2);
-Sieve.addDiamondMeshRecipe(<minecraft:sand>, <exnihilocreatio:item_ore_aluminium>, 0.3);
-Sieve.addDiamondMeshRecipe(<minecraft:sand>, <astralsorcery:itemcraftingcomponent>, 0.15);
+Sieve.addDiamondMeshRecipe(<minecraft:sand>, <exnihilocreatio:item_ore_aluminium>, 0.2);
+Sieve.addDiamondMeshRecipe(<minecraft:sand>, <astralsorcery:itemcraftingcomponent>, 0.08);
 Sieve.addDiamondMeshRecipe(<minecraft:sand>, <appliedenergistics2:material>, 0.1);
-Sieve.addDiamondMeshRecipe(<minecraft:sand>, <exnihilocreatio:item_ore_uranium>, 0.1);
+Sieve.addDiamondMeshRecipe(<minecraft:sand>, <exnihilocreatio:item_ore_uranium>, 0.08);
 Sieve.addDiamondMeshRecipe(<minecraft:sand>, <appliedenergistics2:material:1>, 0.01);
 
 // #DUST
@@ -69,8 +69,8 @@ Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <minecraft:redstone>, 0
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <minecraft:glowstone_dust>, 0.2);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <minecraft:dye:4>, 0.2);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <minecraft:blaze_powder>, 0.1);
-Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <appliedenergistics2:material:2>, 0.1);
-Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <appliedenergistics2:material:45>, 0.05);
+Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <appliedenergistics2:material:2>, 0.08);
+Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <appliedenergistics2:material:45>, 0.03);
 
 
 
@@ -122,7 +122,7 @@ Sieve.addIronMeshRecipe(<minecraft:soul_sand>, <minecraft:quartz>, 0.2);
 Sieve.addIronMeshRecipe(<minecraft:soul_sand>, <minecraft:nether_wart>, 0.1);
 
 Sieve.addDiamondMeshRecipe(<minecraft:soul_sand>, <minecraft:quartz>, 0.4);
-Sieve.addDiamondMeshRecipe(<minecraft:soul_sand>, <minecraft:ghast_tear>, 0.05);
+Sieve.addDiamondMeshRecipe(<minecraft:soul_sand>, <minecraft:ghast_tear>, 0.01);
 
 
 // #ENDSTONE

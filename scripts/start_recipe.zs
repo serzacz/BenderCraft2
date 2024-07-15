@@ -222,8 +222,12 @@ recipes.addShaped(<minecraft:elytra>, [
 	]);
 
 
-
-
+recipes.remove(<randomthings:summoningpendulum>);
+recipes.addShaped(<randomthings:summoningpendulum>, [
+	[null, <ore:ingotSoulforgedSteel>, null], 
+	[<betterwithmods:urn:9>, <ore:ingotSoulforgedSteel>, <betterwithmods:urn:9>], 
+	[<enderio:item_soul_vial>, <ore:netherStar>, <enderio:item_soul_vial>]
+	]);
 
 
 

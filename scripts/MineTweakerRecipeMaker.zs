@@ -13,6 +13,7 @@
 // ================================================================================
 //#MARKER REMOVE
 
+
 recipes.remove(<enderio:item_material:66>);
 recipes.remove(<mekanismgenerators:generator>);
 recipes.remove(<galacticraftcore:machine>);
@@ -32,7 +33,6 @@ recipes.remove(<galacticraftcore:machine>);
 
 // ================================================================================
 //#MARKER ADD SHAPED
-
 
 recipes.addShaped(<enderio:item_material:66>, [
 	[<enderio:block_end_iron_bars>, <ore:ingotEndSteel>, <enderio:block_end_iron_bars>], 

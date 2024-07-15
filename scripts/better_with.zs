@@ -29,5 +29,5 @@ mods.betterwithmods.Cauldron.addStoked([<nuclearcraft:gelatin>*4],[<betterwithmo
 
 // ### Mill Recepty ###
 // # Gelatina
-mods.betterwithmods.Mill.addRecipe([<ore:barkWood>*4, <ore:dustWood>],[<nuclearcraft:gelatin>]);
+mods.betterwithmods.Mill.addRecipe([<ore:barkWood>*4, <ore:dustSaltpeter>],[<nuclearcraft:gelatin>]);
 
