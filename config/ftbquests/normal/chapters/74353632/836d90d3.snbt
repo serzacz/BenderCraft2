@@ -1,0 +1,16 @@
+{
+	x: -5.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "477c1597",
+		type: "kill",
+		title: "Zabij Slunecniho ducha",
+		entity: "aether_legacy:sun_spirit",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "9dbe944c",
+		type: "item",
+		item: "minecraft:sapling"
+	}]
+}

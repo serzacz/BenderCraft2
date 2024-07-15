@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "b5c7f49f",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockobservatory"
+		}]
+	}]
+}

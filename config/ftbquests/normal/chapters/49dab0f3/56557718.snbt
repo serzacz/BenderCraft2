@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "c6c59544",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:infuser_idle"
+		}]
+	}]
+}

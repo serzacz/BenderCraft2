@@ -1,0 +1,16 @@
+{
+	x: -5.0d,
+	y: 0.5d,
+	text: [
+		"Geronimoooooooooooo skok do nicoty"
+	],
+	dependencies: [
+		"3cb7dc23"
+	],
+	tasks: [{
+		uid: "7bce9f48",
+		type: "advancement",
+		advancement: "monk:level_20",
+		criterion: ""
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -0.5d,
+	dependencies: [
+		"bd00c31e"
+	],
+	tasks: [{
+		uid: "0daee98c",
+		type: "item",
+		items: [{
+			item: "magneticraft:hydraulic_press"
+		}]
+	}]
+}

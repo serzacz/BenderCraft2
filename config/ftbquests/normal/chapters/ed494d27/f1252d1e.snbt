@@ -1,0 +1,12 @@
+{
+	x: -5.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "0da3a037",
+		type: "item",
+		items: [{
+			item: "mekanism:speedupgrade"
+		}],
+		count: 8L
+	}]
+}

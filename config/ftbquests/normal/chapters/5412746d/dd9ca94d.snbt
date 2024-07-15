@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "9ed68ffa",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:basic_item_venus 1 2"
+		}]
+	}]
+}

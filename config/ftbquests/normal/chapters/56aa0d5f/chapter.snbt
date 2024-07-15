@@ -6,7 +6,7 @@
 			Chicken: "minecraft:chicken"
 		}
 	},
-	always_invisible: true,
+	always_invisible: false,
 	group: -2117054415,
 	default_quest_shape: "hexagon"
 }

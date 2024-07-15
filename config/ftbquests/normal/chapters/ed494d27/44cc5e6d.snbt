@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "10c00678",
+		type: "item",
+		items: [{
+			item: "mekanism:biofuel"
+		}],
+		count: 64L
+	}]
+}

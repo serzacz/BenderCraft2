@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: -2.5d,
+	text: [
+		"Zabij 10 potvoraku holou rukou"
+	],
+	dependencies: [
+		"8a30000a"
+	],
+	tasks: [{
+		uid: "966393a1",
+		type: "advancement",
+		advancement: "monk:level_7",
+		criterion: ""
+	}]
+}

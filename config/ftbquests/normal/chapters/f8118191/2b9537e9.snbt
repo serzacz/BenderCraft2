@@ -1,0 +1,16 @@
+{
+	x: -5.0d,
+	y: -1.0d,
+	text: [
+		"Postav se pobliz Endermana a stan se jeho kamaradem"
+	],
+	dependencies: [
+		"90defc17"
+	],
+	tasks: [{
+		uid: "b0ebb9cb",
+		type: "advancement",
+		advancement: "monk:level_11",
+		criterion: ""
+	}]
+}

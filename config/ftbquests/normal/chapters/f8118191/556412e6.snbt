@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: -2.5d,
+	text: [
+		"Vykopej holou rukou 4 Ironove bloky"
+	],
+	dependencies: [
+		"257237e8"
+	],
+	tasks: [{
+		uid: "41724925",
+		type: "advancement",
+		advancement: "monk:level_9",
+		criterion: ""
+	}]
+}

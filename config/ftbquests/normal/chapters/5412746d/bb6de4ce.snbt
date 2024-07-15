@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "dda996ab",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine 1 12"
+		}]
+	}]
+}

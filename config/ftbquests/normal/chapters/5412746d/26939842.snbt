@@ -1,0 +1,18 @@
+{
+	x: -0.5d,
+	y: -7.0d,
+	tasks: [{
+		uid: "16ca5c55",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:landing_pad"
+		}]
+	},
+	{
+		uid: "f2a8ee97",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:fuel_loader"
+		}]
+	}]
+}

@@ -6,6 +6,7 @@
 	dependencies: [
 		"92c008c4"
 	],
+	dependency_requirement: "one_started",
 	tasks: [{
 		uid: "e5375738",
 		type: "item",

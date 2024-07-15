@@ -1,0 +1,30 @@
+{
+	x: 8.5d,
+	y: -3.0d,
+	dependencies: [
+		"547d4cc6"
+	],
+	tasks: [{
+		uid: "63eea422",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_block"
+		}],
+		count: 9L
+	},
+	{
+		uid: "3af9252e",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 2"
+		}],
+		count: 4L
+	},
+	{
+		uid: "301e46f8",
+		type: "item",
+		items: [{
+			item: "minecraft:beacon"
+		}]
+	}]
+}

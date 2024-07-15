@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: -2.5d,
+	text: [
+		"Sprintuj 200m (preruseni nebo skakani resetuje ukol)"
+	],
+	dependencies: [
+		"a3b556a3"
+	],
+	tasks: [{
+		uid: "6d9c4581",
+		type: "advancement",
+		advancement: "monk:level_6",
+		criterion: ""
+	}]
+}

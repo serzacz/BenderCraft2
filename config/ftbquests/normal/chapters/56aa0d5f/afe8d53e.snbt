@@ -1,0 +1,17 @@
+{
+	x: -5.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "2217e1e3",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:limechicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}]
+}

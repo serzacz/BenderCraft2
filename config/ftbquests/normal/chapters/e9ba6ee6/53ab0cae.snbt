@@ -1,0 +1,20 @@
+{
+	x: -9.0d,
+	y: -6.5d,
+	dependencies: [
+		"e6ba89cc"
+	],
+	optional: true,
+	tasks: [{
+		uid: "86667105",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:ritual_dismantler"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

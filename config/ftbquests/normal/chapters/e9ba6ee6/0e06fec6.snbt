@@ -1,0 +1,28 @@
+{
+	x: 4.0d,
+	y: -11.5d,
+	dependencies: [
+		"ad6eb04d"
+	],
+	tasks: [{
+		uid: "4ad44195",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_divination",
+			tag: {
+				binding: {
+					name: "Milo3Schu",
+					id: {
+						L: -4963053386577617667L,
+						M: -510932589152089354L
+					}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "65de7c39",
+		type: "item",
+		items: [{
+			item: "mekanism:controlcircuit 1 2"
+		}]
+	}]
+}

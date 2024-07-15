@@ -1,0 +1,24 @@
+{
+	title: "Well of Suffering",
+	icon: "bloodmagic:ritual_controller",
+	x: -9.0d,
+	y: -4.5d,
+	dependencies: [
+		"9d55eba4"
+	],
+	tasks: [{
+		uid: "6d2808ee",
+		type: "item",
+		items: [{
+			item: "bloodmagic:ritual_stone"
+		}],
+		count: 36L
+	},
+	{
+		uid: "a426948e",
+		type: "item",
+		items: [{
+			item: "bloodmagic:ritual_controller"
+		}]
+	}]
+}

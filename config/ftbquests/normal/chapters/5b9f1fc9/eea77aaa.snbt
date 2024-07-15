@@ -1,0 +1,18 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "fbfb8b0a",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockattunementaltar"
+		}]
+	},
+	{
+		uid: "97a9f086",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockattunementrelay"
+		}]
+	}]
+}

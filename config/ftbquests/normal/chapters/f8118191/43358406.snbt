@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: 0.5d,
+	text: [
+		"Vyspi se na Bedrocku (na /spawn je 3x3 bedrock, nezapomen si nastavit /sethome - plati i pro single)"
+	],
+	dependencies: [
+		"dafdd62f"
+	],
+	tasks: [{
+		uid: "c807b05c",
+		type: "advancement",
+		advancement: "monk:level_17",
+		criterion: ""
+	}]
+}

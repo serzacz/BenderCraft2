@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: -4.0d,
+	text: [
+		"Koukej se do slunicka pri vychodu nebo zapadu slunce"
+	],
+	dependencies: [
+		"be652b62"
+	],
+	tasks: [{
+		uid: "e1308768",
+		type: "advancement",
+		advancement: "monk:level_2",
+		criterion: ""
+	}]
+}

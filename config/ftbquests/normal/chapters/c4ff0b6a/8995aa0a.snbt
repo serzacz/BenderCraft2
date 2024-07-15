@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -2.0d,
+	dependencies: [
+		"5bea853f"
+	],
+	tasks: [{
+		uid: "14bf529e",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_furnace"
+		}]
+	}]
+}

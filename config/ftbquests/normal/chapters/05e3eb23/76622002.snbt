@@ -1,0 +1,14 @@
+{
+	x: 2.5d,
+	y: -0.5d,
+	dependencies: [
+		"7ef1b393"
+	],
+	tasks: [{
+		uid: "c1f89ea2",
+		type: "item",
+		items: [{
+			item: "magneticraft:heavy_plates 1 6"
+		}]
+	}]
+}

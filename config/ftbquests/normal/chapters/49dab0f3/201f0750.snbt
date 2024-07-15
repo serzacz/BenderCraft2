@@ -1,0 +1,11 @@
+{
+	x: 11.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "262c5679",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:crystallizer_idle"
+		}]
+	}]
+}

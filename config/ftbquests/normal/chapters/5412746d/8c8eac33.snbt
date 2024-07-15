@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "ff7b869f",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:refinery"
+		}]
+	}]
+}

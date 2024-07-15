@@ -1,0 +1,18 @@
+{
+	x: -9.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "32ce141f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:gastank",
+			tag: {
+				tier: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

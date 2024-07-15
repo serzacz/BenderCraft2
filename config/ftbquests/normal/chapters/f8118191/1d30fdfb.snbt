@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: -1.0d,
+	text: [
+		"Vykopej holou rukou 1 obsidian"
+	],
+	dependencies: [
+		"296055c7"
+	],
+	tasks: [{
+		uid: "b3277b88",
+		type: "advancement",
+		advancement: "monk:level_13",
+		criterion: ""
+	}]
+}

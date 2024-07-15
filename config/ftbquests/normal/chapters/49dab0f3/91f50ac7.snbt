@@ -1,0 +1,36 @@
+{
+	x: -3.0d,
+	y: -7.5d,
+	tasks: [{
+		uid: "ec7637d7",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:cell_block"
+		}],
+		count: 8L
+	},
+	{
+		uid: "796617ff",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ingot_block 1 9"
+		}],
+		count: 4L
+	},
+	{
+		uid: "4d7d88d3",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:cooler 1 5"
+		}],
+		count: 4L
+	},
+	{
+		uid: "3bb2f5dc",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:cooler 1 6"
+		}],
+		count: 8L
+	}]
+}

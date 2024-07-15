@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "ea0d08f1",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockstarlightinfuser"
+		}]
+	}]
+}

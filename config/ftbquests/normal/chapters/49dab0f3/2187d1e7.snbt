@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: -7.0d,
+	tasks: [{
+		uid: "cc0f7075",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fuel_plutonium 1 6"
+		}]
+	}]
+}

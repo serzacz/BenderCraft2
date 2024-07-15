@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: -2.0d,
+	dependencies: [
+		"bd00c31e"
+	],
+	tasks: [{
+		uid: "2c366678",
+		type: "item",
+		items: [{
+			item: "magneticraft:wind_turbine"
+		}]
+	}]
+}

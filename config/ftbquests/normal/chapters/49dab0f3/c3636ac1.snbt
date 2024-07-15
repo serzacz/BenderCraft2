@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: -8.0d,
+	tasks: [{
+		uid: "df7818d1",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fuel_californium"
+		}]
+	}]
+}

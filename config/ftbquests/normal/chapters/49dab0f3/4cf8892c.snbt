@@ -1,0 +1,11 @@
+{
+	x: -7.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "122e3c46",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rad_shielding 1 1"
+		}]
+	}]
+}

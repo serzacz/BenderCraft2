@@ -1,0 +1,7 @@
+{
+	title: "NuclearCraft",
+	icon: "nuclearcraft:nuclear_furnace_idle",
+	always_invisible: false,
+	group: -1337451530,
+	default_quest_shape: ""
+}

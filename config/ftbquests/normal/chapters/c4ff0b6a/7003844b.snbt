@@ -1,0 +1,14 @@
+{
+	x: 9.5d,
+	y: -3.0d,
+	dependencies: [
+		"8ef6d609"
+	],
+	tasks: [{
+		uid: "e35b27da",
+		type: "item",
+		items: [{
+			item: "enderio:block_enhanced_wired_charger"
+		}]
+	}]
+}

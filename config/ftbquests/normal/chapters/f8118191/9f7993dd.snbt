@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: 0.5d,
+	text: [
+		"Jsi oslepen - zabij 5 potvoraku holou rukou aby se ti vratil zrak"
+	],
+	dependencies: [
+		"43358406"
+	],
+	tasks: [{
+		uid: "d699d58e",
+		type: "advancement",
+		advancement: "monk:level_18",
+		criterion: ""
+	}]
+}

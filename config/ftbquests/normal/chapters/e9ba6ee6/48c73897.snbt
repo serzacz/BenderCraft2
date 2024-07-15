@@ -1,0 +1,26 @@
+{
+	title: "Upgrade na tier 3",
+	icon: "minecraft:glowstone",
+	x: -2.5d,
+	y: -7.5d,
+	dependencies: [
+		"e90e0d0a",
+		"7e8f6f62"
+	],
+	tasks: [{
+		uid: "03ed0233",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune"
+		}],
+		count: 20L
+	},
+	{
+		uid: "4b337dc9",
+		type: "item",
+		items: [{
+			item: "minecraft:glowstone"
+		}],
+		count: 4L
+	}]
+}

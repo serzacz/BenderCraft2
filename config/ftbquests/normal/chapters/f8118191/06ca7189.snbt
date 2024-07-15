@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: -4.0d,
+	text: [
+		"Utop se"
+	],
+	dependencies: [
+		"e4f67885"
+	],
+	tasks: [{
+		uid: "c12473d8",
+		type: "advancement",
+		advancement: "monk:level_3",
+		criterion: ""
+	}]
+}

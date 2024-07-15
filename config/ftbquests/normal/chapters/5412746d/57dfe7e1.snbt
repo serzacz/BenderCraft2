@@ -1,0 +1,57 @@
+{
+	x: -2.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "187eaa8f",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_mask"
+		}]
+	},
+	{
+		uid: "745cba3c",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_gear"
+		}]
+	},
+	{
+		uid: "6ee27ad8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftcore:parachute"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9353c609",
+		type: "item",
+		items: [{
+			id: "galacticraftcore:basic_item",
+			tag: {
+				teCoordZ: 5714,
+				teCoordX: -6186,
+				teDim: -30,
+				teCoordY: 164
+			},
+			Damage: 19s
+		}]
+	},
+	{
+		uid: "2de006eb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftcore:oxygen_tank_heavy_full",
+			Damage: 2700s
+		}],
+		count: 2L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

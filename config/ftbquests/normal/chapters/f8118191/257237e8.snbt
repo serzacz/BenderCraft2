@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: -2.5d,
+	text: [
+		"Vyhni se 5x po sobe strelam od skeletona, zasah resetuje ukol."
+	],
+	dependencies: [
+		"75105885"
+	],
+	tasks: [{
+		uid: "82434d26",
+		type: "advancement",
+		advancement: "monk:level_8",
+		criterion: ""
+	}]
+}

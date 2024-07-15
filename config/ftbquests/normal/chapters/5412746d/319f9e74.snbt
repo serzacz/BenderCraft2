@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "33ddb65b",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:collector"
+		}],
+		count: 2L
+	},
+	{
+		uid: "1cbbd6de",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_compressor"
+		}]
+	}]
+}

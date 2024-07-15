@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: -8.0d,
+	tasks: [{
+		uid: "1e8ca684",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fuel_uranium 1 4"
+		}]
+	}]
+}

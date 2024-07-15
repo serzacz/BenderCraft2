@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: -4.0d,
+	text: [
+		"Pohlad 20 zvirat (pravym klikem prazdnou rukou)"
+	],
+	dependencies: [
+		"184bec3e"
+	],
+	tasks: [{
+		uid: "33558c47",
+		type: "advancement",
+		advancement: "monk:level_5",
+		criterion: ""
+	}]
+}

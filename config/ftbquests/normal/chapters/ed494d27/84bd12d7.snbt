@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "7f5b1b76",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 8"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: -5.0d,
+	y: -4.0d,
+	text: [
+		"Pokacej holou rukou 10 stromu"
+	],
+	tasks: [{
+		uid: "524b09c7",
+		type: "advancement",
+		advancement: "monk:level_1",
+		criterion: ""
+	}]
+}

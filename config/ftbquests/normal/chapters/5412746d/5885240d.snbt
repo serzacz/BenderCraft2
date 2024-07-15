@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "96e191f5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:rocket_t3",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}]
+}

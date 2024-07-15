@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: -8.5d,
+	tasks: [{
+		uid: "c215765b",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:cell_block"
+		}],
+		count: 14L
+	},
+	{
+		uid: "05625c9c",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:cooler 1 10"
+		}],
+		count: 13L
+	}]
+}

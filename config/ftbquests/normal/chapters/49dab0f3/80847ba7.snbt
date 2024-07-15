@@ -1,0 +1,11 @@
+{
+	x: 4.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "0d550ddb",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:extractor_idle"
+		}]
+	}]
+}

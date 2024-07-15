@@ -1,0 +1,19 @@
+{
+	title: "Sea Lantern",
+	x: -9.0d,
+	y: -7.5d,
+	text: [
+		"Muzes pouzit misto Glowstone na Tier 3 sloupy"
+	],
+	dependencies: [
+		"48c73897"
+	],
+	optional: true,
+	tasks: [{
+		uid: "2d3b409e",
+		type: "item",
+		items: [{
+			item: "minecraft:sea_lantern"
+		}]
+	}]
+}

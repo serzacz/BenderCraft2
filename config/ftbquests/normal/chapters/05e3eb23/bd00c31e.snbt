@@ -1,0 +1,28 @@
+{
+	title: "Crushed table",
+	icon: "magneticraft:crushing_table",
+	x: -0.5d,
+	y: -0.5d,
+	dependencies: [
+		"627a3f34"
+	],
+	tasks: [{
+		uid: "40a8b581",
+		type: "item",
+		items: [{
+			item: "magneticraft:crushing_table"
+		}]
+	},
+	{
+		uid: "2352683e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "magneticraft:stone_hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

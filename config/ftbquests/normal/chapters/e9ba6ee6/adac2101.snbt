@@ -1,0 +1,26 @@
+{
+	title: "Upgrade na tier 5",
+	icon: "minecraft:beacon",
+	x: -2.5d,
+	y: -3.5d,
+	dependencies: [
+		"f3fd8e71",
+		"e1efc22e"
+	],
+	tasks: [{
+		uid: "a6ddc34d",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune"
+		}],
+		count: 52L
+	},
+	{
+		uid: "cacfa9aa",
+		type: "item",
+		items: [{
+			item: "minecraft:beacon"
+		}],
+		count: 4L
+	}]
+}

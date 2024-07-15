@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -5.5d,
+	tasks: [{
+		uid: "f2bd2cc8",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:compact_workbench"
+		}]
+	}]
+}

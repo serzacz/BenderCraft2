@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 0.5d,
+	text: [
+		"Skok hluboky do sena z 50 metru"
+	],
+	dependencies: [
+		"aeb216df"
+	],
+	tasks: [{
+		uid: "dbde7d84",
+		type: "advancement",
+		advancement: "monk:level_16",
+		criterion: ""
+	}]
+}

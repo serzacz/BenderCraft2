@@ -1,0 +1,40 @@
+{
+	x: 2.5d,
+	y: -7.5d,
+	dependencies: [
+		"691d4dd4",
+		"ad6eb04d"
+	],
+	tasks: [{
+		uid: "baf73fd3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:bound_sword",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 21s
+				},
+				{
+					lvl: 5s,
+					id: 16s
+				}],
+				Unbreakable: 1b,
+				RepairCost: 3,
+				binding: {
+					name: "Milo3Schu",
+					id: {
+						L: -4963053386577617667L,
+						M: -510932589152089354L
+					}
+				},
+				activated: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: -6.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "72b6e88c",
+		type: "item",
+		items: [{
+			item: "mekanism:energyupgrade"
+		}],
+		count: 8L
+	}]
+}

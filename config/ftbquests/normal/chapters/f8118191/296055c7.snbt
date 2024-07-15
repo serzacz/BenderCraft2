@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: -1.0d,
+	text: [
+		"Prejdi 10 horicich bloku"
+	],
+	dependencies: [
+		"2b9537e9"
+	],
+	tasks: [{
+		uid: "3426e854",
+		type: "advancement",
+		advancement: "monk:level_12",
+		criterion: ""
+	}]
+}

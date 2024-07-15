@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: -4.0d,
+	text: [
+		"Vykopej 5x stone"
+	],
+	dependencies: [
+		"06ca7189"
+	],
+	tasks: [{
+		uid: "07057d0c",
+		type: "advancement",
+		advancement: "monk:level_4",
+		criterion: ""
+	}]
+}

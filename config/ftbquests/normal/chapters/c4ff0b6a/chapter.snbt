@@ -1,0 +1,7 @@
+{
+	title: "Ender IO",
+	icon: "enderio:item_material 1 44",
+	always_invisible: false,
+	group: -1337451530,
+	default_quest_shape: ""
+}

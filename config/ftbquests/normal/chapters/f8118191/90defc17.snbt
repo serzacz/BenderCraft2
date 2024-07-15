@@ -1,0 +1,16 @@
+{
+	x: -5.0d,
+	y: -2.5d,
+	text: [
+		"Vlez do lodky plovouci na hladine a koukej na mesic"
+	],
+	dependencies: [
+		"556412e6"
+	],
+	tasks: [{
+		uid: "75d602cc",
+		type: "advancement",
+		advancement: "monk:level_10",
+		criterion: ""
+	}]
+}

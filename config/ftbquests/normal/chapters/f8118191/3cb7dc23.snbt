@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: 0.5d,
+	text: [
+		"Zabij Wither Bosse holou rukou"
+	],
+	dependencies: [
+		"9f7993dd"
+	],
+	tasks: [{
+		uid: "b18c0d2d",
+		type: "advancement",
+		advancement: "monk:level_19",
+		criterion: ""
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: -12.5d,
+	tasks: [{
+		uid: "c9a43453",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rtg_americium"
+		}]
+	}]
+}

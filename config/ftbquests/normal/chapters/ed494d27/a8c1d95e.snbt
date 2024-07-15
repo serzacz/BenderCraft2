@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "9bcd0c25",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,54 @@
+{
+	x: -1.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "20aaf6c9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:thermal_padding_t2"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e91868f2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:thermal_padding_t2",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "51913522",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:thermal_padding_t2",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "16414d28",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -4963053386577617667L,
+					AS_Amulet_HolderMost: -510932589152089354L
+				}
+			},
+			id: "galacticraftplanets:thermal_padding_t2",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}]
+}

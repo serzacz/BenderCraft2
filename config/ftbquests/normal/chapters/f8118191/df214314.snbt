@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	text: [
+		"Dej pusu Creeperovi aby nebouchl (pravy klik holou rukou)"
+	],
+	dependencies: [
+		"1d30fdfb"
+	],
+	tasks: [{
+		uid: "46678996",
+		type: "advancement",
+		advancement: "monk:level_14",
+		criterion: ""
+	}]
+}

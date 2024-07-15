@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 13.5d,
+	tasks: [{
+		uid: "fb400b81",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:moonstonechicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: -12.5d,
+	tasks: [{
+		uid: "e10d83ee",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rtg_californium"
+		}]
+	}]
+}
