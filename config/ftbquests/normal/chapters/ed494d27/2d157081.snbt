@@ -1,0 +1,16 @@
+{
+	x: -9.5d,
+	y: -7.0d,
+	dependencies: [
+		"44cc5e6d",
+		"5386a629",
+		"0b6b8f48"
+	],
+	tasks: [{
+		uid: "43695cf8",
+		type: "item",
+		items: [{
+			item: "mekanism:polyethene 1 2"
+		}]
+	}]
+}

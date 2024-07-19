@@ -22,7 +22,6 @@
 				},
 				orb: "bloodmagic:apprentice"
 			}
-		}],
-		ignore_nbt: 1b
+		}]
 	}]
 }

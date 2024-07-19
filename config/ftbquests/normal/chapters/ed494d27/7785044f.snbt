@@ -1,12 +1,22 @@
 {
-	x: -6.0d,
-	y: -3.5d,
+	icon: "mekanism:energyupgrade",
+	x: -0.5d,
+	y: -9.0d,
+	dependencies: [
+		"aafdb0ff"
+	],
 	tasks: [{
 		uid: "72b6e88c",
 		type: "item",
 		items: [{
 			item: "mekanism:energyupgrade"
-		}],
-		count: 8L
+		}]
+	},
+	{
+		uid: "5a110f52",
+		type: "item",
+		items: [{
+			item: "mekanism:speedupgrade"
+		}]
 	}]
 }

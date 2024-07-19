@@ -22,7 +22,6 @@
 				},
 				orb: "bloodmagic:weak"
 			}
-		}],
-		ignore_nbt: 1b
+		}]
 	}]
 }

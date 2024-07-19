@@ -1,4 +1,6 @@
 {
+	title: "8 - Postreh",
+	icon: "minecraft:arrow",
 	x: -2.0d,
 	y: -2.5d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "82434d26",
 		type: "advancement",
+		icon: "minecraft:arrow",
 		advancement: "monk:level_8",
 		criterion: ""
 	}]

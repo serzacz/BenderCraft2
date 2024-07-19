@@ -1,4 +1,6 @@
 {
+	title: "7 - Ochranka",
+	icon: "minecraft:skull 1 2",
 	x: -0.5d,
 	y: -2.5d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "966393a1",
 		type: "advancement",
+		icon: "minecraft:skull 1 2",
 		advancement: "monk:level_7",
 		criterion: ""
 	}]

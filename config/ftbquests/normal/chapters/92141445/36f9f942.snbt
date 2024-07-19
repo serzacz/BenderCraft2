@@ -1,0 +1,15 @@
+{
+	x: -11.5d,
+	y: -7.0d,
+	dependencies: [
+		"9335c6f9"
+	],
+	optional: true,
+	tasks: [{
+		uid: "fed0ff91",
+		type: "item",
+		items: [{
+			item: "storagedrawers:quantify_key"
+		}]
+	}]
+}

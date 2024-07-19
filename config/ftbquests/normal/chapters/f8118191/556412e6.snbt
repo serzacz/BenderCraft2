@@ -1,4 +1,6 @@
 {
+	title: "9 - Zelezna pest",
+	icon: "minecraft:iron_block",
 	x: -3.5d,
 	y: -2.5d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "41724925",
 		type: "advancement",
+		icon: "minecraft:iron_block",
 		advancement: "monk:level_9",
 		criterion: ""
 	}]

@@ -1,0 +1,18 @@
+{
+	x: -11.5d,
+	y: -5.0d,
+	dependencies: [
+		"95195839"
+	],
+	tasks: [{
+		uid: "717d24c6",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			},
+			Damage: 1s
+		}]
+	}]
+}

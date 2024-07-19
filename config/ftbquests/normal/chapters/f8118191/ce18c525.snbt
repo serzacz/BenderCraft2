@@ -1,4 +1,11 @@
 {
+	title: "20 - Geronimoooooo",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "minecraft:elytra"
+	},
 	x: -5.0d,
 	y: 0.5d,
 	text: [
@@ -10,6 +17,12 @@
 	tasks: [{
 		uid: "7bce9f48",
 		type: "advancement",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:elytra"
+		},
 		advancement: "monk:level_20",
 		criterion: ""
 	}]

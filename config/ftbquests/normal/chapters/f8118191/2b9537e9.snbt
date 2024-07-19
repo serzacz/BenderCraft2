@@ -1,4 +1,6 @@
 {
+	title: "11 - Kamaradi",
+	icon: "enderio:block_enderman_skull",
 	x: -5.0d,
 	y: -1.0d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "b0ebb9cb",
 		type: "advancement",
+		icon: "enderio:block_enderman_skull",
 		advancement: "monk:level_11",
 		criterion: ""
 	}]

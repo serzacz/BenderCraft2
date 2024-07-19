@@ -1,0 +1,13 @@
+{
+	title: "Sklady",
+	icon: {
+		id: "storagedrawers:basicdrawers",
+		tag: {
+			material: "birch"
+		},
+		Damage: 2s
+	},
+	always_invisible: false,
+	group: -1891836946,
+	default_quest_shape: ""
+}

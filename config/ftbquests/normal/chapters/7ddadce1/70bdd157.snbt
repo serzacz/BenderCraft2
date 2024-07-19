@@ -1,0 +1,15 @@
+{
+	x: -4.0d,
+	y: 1.0d,
+	text: [
+		"vyzva: dodej 10k HDPE sheetu :D"
+	],
+	tasks: [{
+		uid: "d8fe3d0e",
+		type: "item",
+		items: [{
+			item: "mekanism:polyethene 1 2"
+		}],
+		count: 1000L
+	}]
+}

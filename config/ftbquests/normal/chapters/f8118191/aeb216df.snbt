@@ -1,4 +1,6 @@
 {
+	title: "15 - Konfrontace",
+	icon: "minecraft:skull 1 1",
 	x: 1.0d,
 	y: -1.0d,
 	text: [
@@ -12,6 +14,7 @@
 	tasks: [{
 		uid: "3a33d8d0",
 		type: "advancement",
+		icon: "minecraft:skull 1 1",
 		advancement: "monk:level_15",
 		criterion: ""
 	}]

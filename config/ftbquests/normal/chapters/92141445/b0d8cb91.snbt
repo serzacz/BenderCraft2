@@ -1,0 +1,21 @@
+{
+	x: -7.5d,
+	y: -5.0d,
+	text: [
+		"detekujeme crafting"
+	],
+	dependencies: [
+		"c3c9d876"
+	],
+	tasks: [{
+		uid: "35d08f39",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage"
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 2b,
+		only_from_crafting: true
+	}]
+}

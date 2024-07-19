@@ -1,0 +1,7 @@
+{
+	title: "Vyzva Sampionum",
+	icon: "aether_legacy:victory_medal",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

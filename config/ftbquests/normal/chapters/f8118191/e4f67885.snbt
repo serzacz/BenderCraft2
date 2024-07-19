@@ -1,4 +1,6 @@
 {
+	title: "2 - Romantika",
+	icon: "minecraft:double_plant",
 	x: -3.5d,
 	y: -4.0d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "e1308768",
 		type: "advancement",
+		icon: "minecraft:double_plant",
 		advancement: "monk:level_2",
 		criterion: ""
 	}]

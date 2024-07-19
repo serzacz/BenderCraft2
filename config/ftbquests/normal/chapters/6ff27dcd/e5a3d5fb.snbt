@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: -2.0d,
+	dependencies: [
+		"1c6e4670"
+	],
+	optional: true,
+	tasks: [{
+		uid: "c2462af0",
+		type: "item",
+		items: [{
+			item: "extrautils2:grocket 1 2"
+		}]
+	}]
+}

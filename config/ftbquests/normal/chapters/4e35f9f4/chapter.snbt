@@ -1,0 +1,7 @@
+{
+	title: "Flux Network",
+	icon: "fluxnetworks:fluxconfigurator",
+	always_invisible: false,
+	group: -1891836946,
+	default_quest_shape: ""
+}

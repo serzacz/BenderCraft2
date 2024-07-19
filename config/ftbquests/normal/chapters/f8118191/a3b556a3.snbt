@@ -1,4 +1,6 @@
 {
+	title: "5 - Chovatel",
+	icon: "chisel:valentines 1 3",
 	x: 1.0d,
 	y: -4.0d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "33558c47",
 		type: "advancement",
+		icon: "chisel:valentines 1 3",
 		advancement: "monk:level_5",
 		criterion: ""
 	}]

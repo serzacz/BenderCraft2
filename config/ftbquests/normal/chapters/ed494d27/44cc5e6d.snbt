@@ -1,12 +1,14 @@
 {
-	x: -1.0d,
-	y: -3.5d,
+	x: -8.5d,
+	y: -8.0d,
+	dependencies: [
+		"4fb52d2a"
+	],
 	tasks: [{
 		uid: "10c00678",
 		type: "item",
 		items: [{
 			item: "mekanism:biofuel"
-		}],
-		count: 64L
+		}]
 	}]
 }

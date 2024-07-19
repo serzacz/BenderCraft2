@@ -1,0 +1,7 @@
+{
+	title: "Trubky",
+	icon: "enderio:item_item_conduit",
+	always_invisible: false,
+	group: -1891836946,
+	default_quest_shape: ""
+}

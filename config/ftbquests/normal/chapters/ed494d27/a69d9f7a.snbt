@@ -1,0 +1,15 @@
+{
+	x: -0.5d,
+	y: -10.0d,
+	dependencies: [
+		"7785044f"
+	],
+	optional: true,
+	tasks: [{
+		uid: "0b85507e",
+		type: "item",
+		items: [{
+			item: "mekanism:mufflingupgrade"
+		}]
+	}]
+}

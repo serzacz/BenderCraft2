@@ -1,4 +1,6 @@
 {
+	title: "14 - Polibek",
+	icon: "minecraft:skull 1 4",
 	x: -0.5d,
 	y: -1.0d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "46678996",
 		type: "advancement",
+		icon: "minecraft:skull 1 4",
 		advancement: "monk:level_14",
 		criterion: ""
 	}]

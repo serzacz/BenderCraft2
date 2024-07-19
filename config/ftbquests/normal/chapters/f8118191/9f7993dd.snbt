@@ -1,4 +1,6 @@
 {
+	title: "18 - Slepota",
+	icon: "minecraft:skull 1 2",
 	x: -2.0d,
 	y: 0.5d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "d699d58e",
 		type: "advancement",
+		icon: "minecraft:skull 1 2",
 		advancement: "monk:level_18",
 		criterion: ""
 	}]

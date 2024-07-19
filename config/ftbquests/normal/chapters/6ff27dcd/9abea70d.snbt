@@ -1,14 +1,16 @@
 {
-	x: -8.0d,
-	y: -3.5d,
+	x: 6.0d,
+	y: 1.0d,
+	optional: true,
 	tasks: [{
-		uid: "08b62455",
+		uid: "09c0a604",
 		type: "item",
 		items: [{
 			id: "mekanism:transmitter",
 			tag: {
 				tier: 0
-			}
+			},
+			Damage: 6s
 		}]
 	}]
 }

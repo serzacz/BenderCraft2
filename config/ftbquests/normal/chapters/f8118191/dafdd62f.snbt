@@ -1,4 +1,6 @@
 {
+	title: "16 - Skok viry",
+	icon: "minecraft:hay_block",
 	x: 1.0d,
 	y: 0.5d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "dbde7d84",
 		type: "advancement",
+		icon: "minecraft:hay_block",
 		advancement: "monk:level_16",
 		criterion: ""
 	}]

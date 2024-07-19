@@ -1,4 +1,6 @@
 {
+	title: "17 - Tvrda postel",
+	icon: "minecraft:bedrock",
 	x: -0.5d,
 	y: 0.5d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "c807b05c",
 		type: "advancement",
+		icon: "minecraft:bedrock",
 		advancement: "monk:level_17",
 		criterion: ""
 	}]

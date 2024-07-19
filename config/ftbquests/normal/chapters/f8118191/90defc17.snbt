@@ -1,4 +1,6 @@
 {
+	title: "10 - Vodni romance",
+	icon: "minecraft:boat",
 	x: -5.0d,
 	y: -2.5d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "75d602cc",
 		type: "advancement",
+		icon: "minecraft:boat",
 		advancement: "monk:level_10",
 		criterion: ""
 	}]

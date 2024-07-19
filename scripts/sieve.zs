@@ -141,5 +141,6 @@ Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_granite_crushed>, <exnihilocre
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_skystone_crushed>, <exnihilocreatio:item_ore_tungsten>, 0.2);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_skystone_crushed>, <exnihilocreatio:item_ore_thorium>, 0.2);
 
-
+Sieve.addDiamondMeshRecipe(<tconstruct:slime_grass:1>, <tconstruct:slime_sapling>, 0.02);
+Sieve.addDiamondMeshRecipe(<tconstruct:slime_grass:1>, <minecraft:slime_ball>, 0.8);
 

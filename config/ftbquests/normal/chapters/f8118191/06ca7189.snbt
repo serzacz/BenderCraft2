@@ -1,4 +1,6 @@
 {
+	title: "3 - Utopenec",
+	icon: "ic2:misc_resource 1 7",
 	x: -2.0d,
 	y: -4.0d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "c12473d8",
 		type: "advancement",
+		icon: "ic2:misc_resource 1 7",
 		advancement: "monk:level_3",
 		criterion: ""
 	}]

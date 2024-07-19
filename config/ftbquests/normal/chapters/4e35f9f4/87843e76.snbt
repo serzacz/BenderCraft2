@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: -3.0d,
+	dependencies: [
+		"09efdede"
+	],
+	optional: true,
+	tasks: [{
+		uid: "aea97e71",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxstorage"
+		}]
+	}]
+}

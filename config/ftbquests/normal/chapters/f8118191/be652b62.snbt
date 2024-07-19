@@ -1,12 +1,18 @@
 {
+	title: "1 - Drevorubec",
+	icon: "minecraft:sapling",
 	x: -5.0d,
 	y: -4.0d,
 	text: [
 		"Pokacej holou rukou 10 stromu"
 	],
+	dependencies: [
+		"e5045bd4"
+	],
 	tasks: [{
 		uid: "524b09c7",
 		type: "advancement",
+		icon: "minecraft:sapling",
 		advancement: "monk:level_1",
 		criterion: ""
 	}]

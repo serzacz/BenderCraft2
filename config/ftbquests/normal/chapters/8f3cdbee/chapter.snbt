@@ -1,0 +1,7 @@
+{
+	title: "Logistika",
+	icon: "extrautils2:pipe",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

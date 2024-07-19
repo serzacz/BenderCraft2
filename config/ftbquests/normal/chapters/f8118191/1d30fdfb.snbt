@@ -1,4 +1,6 @@
 {
+	title: "13 - Diamantova pest",
+	icon: "minecraft:obsidian",
 	x: -2.0d,
 	y: -1.0d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "b3277b88",
 		type: "advancement",
+		icon: "minecraft:obsidian",
 		advancement: "monk:level_13",
 		criterion: ""
 	}]

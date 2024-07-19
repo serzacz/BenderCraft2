@@ -1,4 +1,6 @@
 {
+	title: "4 - Kamenik",
+	icon: "minecraft:stone",
 	x: -0.5d,
 	y: -4.0d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "07057d0c",
 		type: "advancement",
+		icon: "minecraft:stone",
 		advancement: "monk:level_4",
 		criterion: ""
 	}]

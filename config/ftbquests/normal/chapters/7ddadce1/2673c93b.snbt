@@ -1,0 +1,14 @@
+{
+	title: "My mame hlad :D",
+	x: -2.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "5b2d322b",
+		type: "item",
+		title: "Vyzva pro Milose :D",
+		items: [{
+			item: "nuclearcraft:foursmore"
+		}],
+		count: 2000L
+	}]
+}

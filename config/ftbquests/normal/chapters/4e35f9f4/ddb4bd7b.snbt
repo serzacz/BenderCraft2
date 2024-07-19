@@ -1,0 +1,15 @@
+{
+	x: 7.0d,
+	y: -3.0d,
+	dependencies: [
+		"87843e76"
+	],
+	optional: true,
+	tasks: [{
+		uid: "7354a751",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:herculeanfluxstorage"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "0b5acfc3",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:flux"
+		}]
+	}]
+}

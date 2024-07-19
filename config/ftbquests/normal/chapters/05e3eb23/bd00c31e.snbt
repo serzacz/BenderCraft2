@@ -6,6 +6,7 @@
 	dependencies: [
 		"627a3f34"
 	],
+	hide: true,
 	tasks: [{
 		uid: "40a8b581",
 		type: "item",
@@ -14,9 +15,21 @@
 		}]
 	},
 	{
-		uid: "2352683e",
+		uid: "07885be4",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "magneticraft:iron_hammer"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "magneticraft:steel_hammer"
+		},
+		{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
 			},

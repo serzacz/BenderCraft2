@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8bdfab1f"
+	],
+	tasks: [{
+		uid: "6aff63e8",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 33"
+		}]
+	}]
+}

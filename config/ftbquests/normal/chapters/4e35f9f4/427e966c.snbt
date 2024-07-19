@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	dependencies: [
+		"371ecad8"
+	],
+	optional: true,
+	tasks: [{
+		uid: "b5852f5b",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxconfigurator"
+		}]
+	}]
+}

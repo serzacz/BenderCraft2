@@ -1,4 +1,6 @@
 {
+	title: "6 - Sprinter",
+	icon: "rftools:speed_module",
 	x: 1.0d,
 	y: -2.5d,
 	text: [
@@ -10,6 +12,7 @@
 	tasks: [{
 		uid: "6d9c4581",
 		type: "advancement",
+		icon: "rftools:speed_module",
 		advancement: "monk:level_6",
 		criterion: ""
 	}]
