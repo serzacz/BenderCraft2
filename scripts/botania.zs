@@ -63,7 +63,15 @@ mods.botania.ManaInfusion.addInfusion(<botania:storage>, <ore:blockSteel>, 27000
 
 
 // runic altar
-mods.botania.RuneAltar.addRecipe(<bloodmagic:soul_snare>*8,[<betterwithmods:material:3>, <betterwithmods:material:3>, <betterwithmods:material:28>, <betterwithmods:material:8>, <betterwithmods:material:8>, <embers:ingot_nickel>, <embers:ingot_nickel>], 10000);
+mods.botania.RuneAltar.addRecipe(<bloodmagic:soul_snare>*8,[
+	<betterwithmods:material:3>, 
+	<betterwithmods:material:3>, 
+	<betterwithmods:material:28>, 
+	<betterwithmods:material:8>, 
+	<betterwithmods:material:8>, 
+	<embers:ingot_nickel>, 
+	<embers:ingot_nickel>
+	], 10000);
 
 
 

@@ -26,7 +26,11 @@ recipes.remove(<buildcraftcore:gear_iron>);
 recipes.remove(<ore:ingotBronze>);
 recipes.remove(<ore:dustBronze>);
 recipes.addShaped(<embers:ingot_bronze>*9, [[<ore:blockBronze>]]);
-recipes.addShaped(<embers:ingot_bronze>, [[<ore:nuggetBronze>, <ore:nuggetBronze>, <ore:nuggetBronze>], [<ore:nuggetBronze>, <ore:nuggetBronze>, <ore:nuggetBronze>], [<ore:nuggetBronze>, <ore:nuggetBronze>, <ore:nuggetBronze>]]);
+recipes.addShaped(<embers:ingot_bronze>, [
+	[<ore:nuggetBronze>, <ore:nuggetBronze>, <ore:nuggetBronze>], 
+	[<ore:nuggetBronze>, <ore:nuggetBronze>, <ore:nuggetBronze>], 
+	[<ore:nuggetBronze>, <ore:nuggetBronze>, <ore:nuggetBronze>]
+	]);
 
 // #OAK LOG 
 recipes.remove(<minecraft:log>);
@@ -38,15 +42,27 @@ recipes.addShaped(<minecraft:log>, [
 
 // # Generator DUST
 recipes.remove(<ultimatecobblegen:dustgenerator>);
-recipes.addShaped(<ultimatecobblegen:dustgenerator>, [[<excompressum:double_compressed_diamond_hammer>, <minecraft:dropper>, <excompressum:double_compressed_diamond_hammer>], [<minecraft:lava_bucket>, <exnihilocreatio:block_crucible:1>, <ore:listAllwater>], [<excompressum:compressed_block>, <minecraft:hopper>, <excompressum:compressed_block>]]);
+recipes.addShaped(<ultimatecobblegen:dustgenerator>, [
+	[<excompressum:double_compressed_diamond_hammer>, <minecraft:dropper>, <excompressum:double_compressed_diamond_hammer>], 
+	[<minecraft:lava_bucket>, <exnihilocreatio:block_crucible:1>, <ore:listAllwater>], 
+	[<excompressum:compressed_block>, <minecraft:hopper>, <excompressum:compressed_block>]
+	]);
 
 // # Generator SAND
 recipes.remove(<ultimatecobblegen:sandgenerator>);
-recipes.addShaped(<ultimatecobblegen:sandgenerator>, [[<extrautils2:compressedsand:1>, <excompressum:double_compressed_diamond_hammer>, <extrautils2:compressedsand:1>], [<minecraft:lava_bucket>, <exnihilocreatio:block_crucible:1>, <ore:listAllwater>], [<extrautils2:compressedsand:1>, <tconstruct:wooden_hopper>, <extrautils2:compressedsand:1>]]);
+recipes.addShaped(<ultimatecobblegen:sandgenerator>, [
+	[<extrautils2:compressedsand:1>, <excompressum:double_compressed_diamond_hammer>, <extrautils2:compressedsand:1>], 
+	[<minecraft:lava_bucket>, <exnihilocreatio:block_crucible:1>, <ore:listAllwater>], 
+	[<extrautils2:compressedsand:1>, <tconstruct:wooden_hopper>, <extrautils2:compressedsand:1>]
+	]);
 
 // # Generator GRAVEL
 recipes.remove(<ultimatecobblegen:gravelgenerator>);
-recipes.addShaped(<ultimatecobblegen:gravelgenerator>, [[<extrautils2:compressedgravel:1>, <excompressum:compressed_hammer_diamond>, <extrautils2:compressedgravel:1>], [<minecraft:lava_bucket>, <exnihilocreatio:block_crucible:1>, <ore:listAllwater>], [<extrautils2:compressedgravel:1>, <tconstruct:wooden_hopper>, <extrautils2:compressedgravel:1>]]);
+recipes.addShaped(<ultimatecobblegen:gravelgenerator>, [
+	[<extrautils2:compressedgravel:1>, <excompressum:compressed_hammer_diamond>, <extrautils2:compressedgravel:1>], 
+	[<minecraft:lava_bucket>, <exnihilocreatio:block_crucible:1>, <ore:listAllwater>], 
+	[<extrautils2:compressedgravel:1>, <tconstruct:wooden_hopper>, <extrautils2:compressedgravel:1>]
+	]);
 
 // # Generator STONE
 recipes.remove(<ultimatecobblegen:cobblegenerator>);
@@ -65,19 +81,33 @@ recipes.addShaped(<ultimatecobblegen:cobblegenerator>, [
 
 // # 
 recipes.remove(<bonsaitrees:bonsaipot:1>);
-recipes.addShaped(<bonsaitrees:bonsaipot:1>, [[<ore:slabStone>, <bonsaitrees:bonsaipot>, <ore:slabStone>], [<ore:slabStone>, <ore:chest>, <ore:slabStone>], [<ore:gearBronze>, <minecraft:hopper>, <ore:gearBronze>]]);
+recipes.addShaped(<bonsaitrees:bonsaipot:1>, [
+	[<ore:slabStone>, <bonsaitrees:bonsaipot>, <ore:slabStone>], 
+	[<ore:slabStone>, <ore:chest>, <ore:slabStone>], 
+	[<ore:gearBronze>, <minecraft:hopper>, <ore:gearBronze>]
+	]);
 
 // # 
 recipes.remove(<exnihilocreatio:block_crucible>);
-recipes.addShaped(<exnihilocreatio:block_crucible>, [[<ceramics:unfired_clay:5>, null, <ceramics:unfired_clay:5>], [<ceramics:unfired_clay:5>, null, <ceramics:unfired_clay:5>], [<ceramics:unfired_clay:5>, <minecraft:heavy_weighted_pressure_plate>, <ceramics:unfired_clay:5>]]);
+recipes.addShaped(<exnihilocreatio:block_crucible>, [
+	[<ceramics:unfired_clay:5>, null, <ceramics:unfired_clay:5>], 
+	[<ceramics:unfired_clay:5>, null, <ceramics:unfired_clay:5>], 
+	[<ceramics:unfired_clay:5>, <minecraft:heavy_weighted_pressure_plate>, <ceramics:unfired_clay:5>]
+	]);
 
 // # 
 recipes.remove(<bonsaitrees:bonsaipot>);
-recipes.addShaped(<bonsaitrees:bonsaipot>, [[<ceramics:unfired_clay:5>, null, <ceramics:unfired_clay:5>], [<ceramics:unfired_clay:5>, <ceramics:unfired_clay:5>, <ceramics:unfired_clay:5>]]);
+recipes.addShaped(<bonsaitrees:bonsaipot>, [
+	[<ceramics:unfired_clay:5>, null, <ceramics:unfired_clay:5>], 
+	[<ceramics:unfired_clay:5>, <ceramics:unfired_clay:5>, <ceramics:unfired_clay:5>]
+	]);
 
 // # 
 recipes.remove(<ceramics:unfired_clay>);
-recipes.addShaped(<ceramics:unfired_clay>, [[<ceramics:unfired_clay:5>, null, <ceramics:unfired_clay:5>], [null, <ceramics:unfired_clay:5>, null]]);
+recipes.addShaped(<ceramics:unfired_clay>, [
+	[<ceramics:unfired_clay:5>, null, <ceramics:unfired_clay:5>], 
+	[null, <ceramics:unfired_clay:5>, null]
+	]);
 
 // # 
 recipes.remove(<minecraft:bucket>);
@@ -112,31 +142,59 @@ recipes.addShaped(<minecraft:bed:15>, [[<minecraft:bed:*>, <ore:dyeBlack>]]);
 
 
 recipes.remove(<minecraft:cauldron>);
-recipes.addShaped(<minecraft:cauldron>, [[<ore:plateIron>, null, <ore:plateIron>], [<ore:plateIron>, null, <ore:plateIron>], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>]]);
+recipes.addShaped(<minecraft:cauldron>, [
+	[<ore:plateIron>, null, <ore:plateIron>], 
+	[<ore:plateIron>, null, <ore:plateIron>], 
+	[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>]
+	]);
 
 
 recipes.remove(<minecraft:brewing_stand>);
-recipes.addShaped(<minecraft:brewing_stand>, [[null, <extrautils2:filterfluids>, null], [<ore:blockUrn>, <ore:dustBlaze>, <ore:blockUrn>], [<ore:slabStone>, <minecraft:magma_cream>, <ore:slabStone>]]);
+recipes.addShaped(<minecraft:brewing_stand>, [
+	[null, <extrautils2:filterfluids>, null], 
+	[<ore:blockUrn>, <ore:dustBlaze>, <ore:blockUrn>], 
+	[<ore:slabStone>, <minecraft:magma_cream>, <ore:slabStone>]
+	]);
 
 
 recipes.remove(<exnihilocreatio:crook_stone>);
-recipes.addShaped(<exnihilocreatio:crook_stone>, [[<ore:rodStone>, <ore:rodStone>], [null, <ore:rodStone>], [null, <ore:rodStone>]]);
+recipes.addShaped(<exnihilocreatio:crook_stone>, [
+	[<ore:rodStone>, <ore:rodStone>], 
+		[null, <ore:rodStone>], 
+		[null, <ore:rodStone>]
+		]);
 
 
 recipes.remove(<enderio:block_reservoir>);
-recipes.addShaped(<enderio:block_reservoir> * 2, [[<ore:blockGlassHardened>, <ore:blockGlassHardened>, <ore:blockGlassHardened>], [<ore:heavyPlateTungsten>, <harvestcraft:well>, <ore:heavyPlateTungsten>], [<ore:blockGlassHardened>, <ore:blockGlassHardened>, <ore:blockGlassHardened>]]);
+recipes.addShaped(<enderio:block_reservoir> * 2, [
+	[<ore:blockGlassHardened>, <ore:blockGlassHardened>, <ore:blockGlassHardened>], 
+	[<ore:heavyPlateTungsten>, <harvestcraft:well>, <ore:heavyPlateTungsten>], 
+	[<ore:blockGlassHardened>, <ore:blockGlassHardened>, <ore:blockGlassHardened>]
+	]);
 
 
 recipes.remove(<nuclearcraft:water_source>);
-recipes.addShaped(<nuclearcraft:water_source>, [[<ore:plateBasic>, <ore:heavyPlateTungsten>, <ore:plateBasic>], [<ore:heavyPlateTungsten>, <harvestcraft:well>, <ore:heavyPlateTungsten>], [<ore:plateBasic>, <fluidfunnel:funnel>, <ore:plateBasic>]]);
+recipes.addShaped(<nuclearcraft:water_source>, [
+	[<ore:plateBasic>, <ore:heavyPlateTungsten>, <ore:plateBasic>], 
+	[<ore:heavyPlateTungsten>, <harvestcraft:well>, <ore:heavyPlateTungsten>], 
+	[<ore:plateBasic>, <fluidfunnel:funnel>, <ore:plateBasic>]
+	]);
 
 
 recipes.remove(<magneticraft:water_generator>);
-recipes.addShaped(<magneticraft:water_generator>, [[<ore:heavyPlateTungsten>, <ore:blockGlassColorless>, <ore:heavyPlateTungsten>], [<ore:blockGlassColorless>, <harvestcraft:well>, <ore:blockGlassColorless>], [<ore:heavyPlateTungsten>, <fluidfunnel:funnel>, <ore:heavyPlateTungsten>]]);
+recipes.addShaped(<magneticraft:water_generator>, [
+	[<ore:heavyPlateTungsten>, <ore:blockGlassColorless>, <ore:heavyPlateTungsten>], 
+	[<ore:blockGlassColorless>, <harvestcraft:well>, <ore:blockGlassColorless>], 
+	[<ore:heavyPlateTungsten>, <fluidfunnel:funnel>, <ore:heavyPlateTungsten>]
+	]);
 
 
 recipes.remove(<minecraft:piston>);
-recipes.addShaped(<minecraft:piston>, [[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], [<ore:cobblestone>, <ore:latchRedstone>, <ore:cobblestone>], [<ore:cobblestone>, <minecraft:heavy_weighted_pressure_plate>, <ore:cobblestone>]]);
+recipes.addShaped(<minecraft:piston>, [
+	[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], 
+	[<ore:cobblestone>, <ore:latchRedstone>, <ore:cobblestone>], 
+	[<ore:cobblestone>, <minecraft:heavy_weighted_pressure_plate>, <ore:cobblestone>]
+	]);
 
 // #Hunting dimension ELVEN TRADE
 recipes.remove(<huntingdim:frame>);
@@ -153,11 +211,6 @@ recipes.addShaped(<minecraft:wooden_shovel>, [
 	[<betterwithmods:moulding_wood>.withTag({texture: {Properties: {variant: "oak"}, Name: "minecraft:planks"}})]
 	]);
 
-
-recipes.remove(<gendustry:power_module>);
-//clearRecipes: I:gendustry:power_module
-//recipes.addShaped(<gendustry:power_module>, [[<ore:gearBronze>, <ore:dropRoyalJelly>, <ore:gearBronze>], [<minecraft:piston>, <ore:blockRedstone>, <minecraft:piston>], [<ore:gearBronze>, <ore:ingotGold>, <ore:gearBronze>]]);
-
 recipes.remove(<astralsorcery:blockaltar>);
 recipes.addShaped(<astralsorcery:blockaltar>, [
 	[<ore:stoneMarble>, <avaritia:compressed_crafting_table>, <ore:stoneMarble>], 
@@ -167,15 +220,27 @@ recipes.addShaped(<astralsorcery:blockaltar>, [
 
 
 recipes.remove(<tconstruct:tinker_tank_controller>);
-recipes.addShaped(<tconstruct:tinker_tank_controller>, [[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <minecraft:cauldron>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>]]);
+recipes.addShaped(<tconstruct:tinker_tank_controller>, [
+	[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], 
+	[<ore:ingotBrickSeared>, <minecraft:cauldron>, <ore:ingotBrickSeared>], 
+	[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>]
+	]);
 
 
 recipes.remove(<tconstruct:smeltery_controller>);
-recipes.addShaped(<tconstruct:smeltery_controller>, [[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <ore:lapotronCrystal>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <tconstruct:tinker_tank_controller>, <ore:ingotBrickSeared>]]);
+recipes.addShaped(<tconstruct:smeltery_controller>, [
+	[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], 
+	[<ore:ingotBrickSeared>, <ore:lapotronCrystal>, <ore:ingotBrickSeared>], 
+	[<ore:ingotBrickSeared>, <tconstruct:tinker_tank_controller>, <ore:ingotBrickSeared>]
+	]);
 
 
 recipes.remove(<harvestcraft:garliccoinitem>);
-recipes.addShaped(<harvestcraft:garliccoinitem>, [[<ore:nuggetGold>, <ore:ingotGold>, <ore:nuggetGold>], [<ore:ingotGold>, <ore:blockUrn>, <ore:ingotGold>], [<ore:nuggetGold>, <ore:ingotGold>, <ore:nuggetGold>]]);
+recipes.addShaped(<harvestcraft:garliccoinitem>, [
+	[<ore:nuggetGold>, <ore:ingotGold>, <ore:nuggetGold>], 
+	[<ore:ingotGold>, <ore:blockUrn>, <ore:ingotGold>], 
+	[<ore:nuggetGold>, <ore:ingotGold>, <ore:nuggetGold>]
+	]);
 
 // #AROMA - mining tools
 recipes.remove(<aroma1997sdimension:dimensionchanger>);
@@ -189,7 +254,11 @@ mods.botania.ElvenTrade.addRecipe([<aroma1997sdimension:miningmultitool>], [<aro
 
 // # 
 recipes.remove(<aroma1997sdimension:portalframe>);
-recipes.addShaped(<aroma1997sdimension:portalframe> * 2, [[null, <ore:bricksStone>, null], [<ore:bricksStone>, <betterwithmods:material:45>, <ore:bricksStone>], [null, <ore:bricksStone>, null]]);
+recipes.addShaped(<aroma1997sdimension:portalframe> * 2, [
+	[null, <ore:bricksStone>, null], 
+	[<ore:bricksStone>, <betterwithmods:material:45>, <ore:bricksStone>], 
+	[null, <ore:bricksStone>, null]
+	]);
 
 
 recipes.addShaped(<aether_legacy:aether_portal_frame>, [
@@ -229,7 +298,8 @@ recipes.addShaped(<randomthings:summoningpendulum>, [
 	[<enderio:item_soul_vial>, <ore:netherStar>, <enderio:item_soul_vial>]
 	]);
 
-
+recipes.addShaped(<magneticraft:ingots:5>, [<extraplanets:tier9_items:5>]);
+recipes.addShaped(<extraplanets:tier9_items:5>, [<magneticraft:ingots:5>]);
 
 
 

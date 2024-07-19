@@ -21,14 +21,14 @@ recipes.addShaped(<ic2:tool_box>, [
 	]);
 
 recipes.addShaped(<ic2:te:43>, [
-	[<ic2:casing:3>, <ore:craftingToolForgeHammer>, <ic2:casing:3>], 
+	[<ic2:casing:3>, <ore:craftingToolForgeHammer>.noReturn(), <ic2:casing:3>], 
 	[<minecraft:piston>, <ore:machineBlock>, <minecraft:piston>], 
 	[<ore:compressed2xCobblestone>, <ore:circuitBasic>, <ore:compressed2xCobblestone>]
 	]);
 
 recipes.addShaped(<ic2:te:55>, [
 	[<ic2:tool_box>, <ore:circuitBasic>, <ic2:tool_box>], 
-	[<ic2:forge_hammer>, <ore:machineBlock>, <ic2:cutter>], 
+	[<ic2:forge_hammer>.noReturn(), <ore:machineBlock>, <ic2:cutter>.noReturn()], 
 	[<ic2:crafting:5>, <ic2:crafting:5>, <ic2:crafting:5>]
 	]);
 
