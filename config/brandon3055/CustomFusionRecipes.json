@@ -1,0 +1,216 @@
+[
+    {
+        "mode": "ADD",
+        "result": "avaritia:extreme_crafting_table",
+        "catalyst": "avaritia:double_compressed_crafting_table",
+        "energy": 500000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:draconic_core",
+            "draconicevolution:draconic_core",
+            "ore:ingotCrystalMatrix",
+            "ore:ingotCrystalMatrix",
+            "ore:ingotCrystalMatrix",
+            "ore:ingotCrystalMatrix",
+			"embers:wildfire_core",
+			"embers:wildfire_core",
+			"buildcraftsilicon:integration_table",
+			"buildcraftsilicon:advanced_crafting_table"
+			
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots"
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm",
+        "energy": 640000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+			"extraplanets:tier8_items,1,3",
+			"extraplanets:tier8_items,1,3"
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest",
+        "energy": 640000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "extraplanets:tier8_items,1,0",
+            "extraplanets:tier8_items,1,0"
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs",
+        "energy": 640000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "extraplanets:tier8_items,1,2",
+			"extraplanets:tier8_items,1,2"
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots",
+        "energy": 640000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "extraplanets:tier8_items,1,1",
+			"extraplanets:tier8_items,1,1"
+			
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:awakened_core",
+        "catalyst": "minecraft:nether_star"
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:awakened_core",
+        "catalyst": "minecraft:nether_star",
+        "energy": 1000000,
+        "tier": 1,
+        "ingredients": [          
+			"draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",			
+			"ore:ingotPalladium",
+			"ore:ingotPalladium",	
+            "ore:ingotDraconiumAwakened",
+			"ore:ingotDraconiumAwakened",			
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_helm",
+        "catalyst": "extraplanets:red_gem_helmet",
+        "energy": 400000,
+        "tier": 1,
+        "ingredients": [          
+			"draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",			
+			"ore:ingotDraconium",
+			"ore:ingotDraconium",	
+            "draconicevolution:wyvern_energy_core",
+			"draconicevolution:wyvern_energy_core"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_chest",
+        "catalyst": "extraplanets:red_gem_chest",
+        "energy": 400000,
+        "tier": 1,
+        "ingredients": [          
+			"draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",			
+			"ore:ingotDraconium",
+			"ore:ingotDraconium",	
+            "draconicevolution:wyvern_energy_core",
+			"draconicevolution:wyvern_energy_core"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_legs",
+        "catalyst": "extraplanets:red_gem_legings",
+        "energy": 400000,
+        "tier": 1,
+        "ingredients": [          
+			"draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",			
+			"ore:ingotDraconium",
+			"ore:ingotDraconium",	
+            "draconicevolution:wyvern_energy_core",
+			"draconicevolution:wyvern_energy_core"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_boots",
+        "catalyst": "extraplanets:red_gem_boots",
+        "energy": 400000,
+        "tier": 1,
+        "ingredients": [          
+			"draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",			
+			"ore:ingotDraconium",
+			"ore:ingotDraconium",	
+            "draconicevolution:wyvern_energy_core",
+			"draconicevolution:wyvern_energy_core"
+        ]
+    }
+
+
+
+
+
+
+
+    
+]
+
+

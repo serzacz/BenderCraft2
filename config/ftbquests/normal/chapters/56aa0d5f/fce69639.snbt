@@ -8,9 +8,7 @@
 		uid: "8049f31a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "roost:catcher"
 		}],
 		ignore_damage: true,

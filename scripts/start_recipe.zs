@@ -189,13 +189,6 @@ recipes.remove(<gendustry:power_module>);
 //clearRecipes: I:gendustry:power_module
 //recipes.addShaped(<gendustry:power_module>, [[<ore:gearBronze>, <ore:dropRoyalJelly>, <ore:gearBronze>], [<minecraft:piston>, <ore:blockRedstone>, <minecraft:piston>], [<ore:gearBronze>, <ore:ingotGold>, <ore:gearBronze>]]);
 
-recipes.remove(<astralsorcery:blockaltar>);
-recipes.addShaped(<astralsorcery:blockaltar>, [
-	[<ore:stoneMarble>, <avaritia:compressed_crafting_table>, <ore:stoneMarble>], 
-	[<ore:plankWood>, <bloodmagic:slate:2>, <ore:plankWood>], 
-	[<ore:plankWood>, <ore:stoneMarble>, <ore:plankWood>]
-	]);
-
 
 recipes.remove(<tconstruct:tinker_tank_controller>);
 recipes.addShaped(<tconstruct:tinker_tank_controller>, [[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <minecraft:cauldron>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>]]);

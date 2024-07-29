@@ -8,9 +8,7 @@
 		uid: "52f86bcb",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "mekanism:basicblock",
 			tag: {
 				tier: 3

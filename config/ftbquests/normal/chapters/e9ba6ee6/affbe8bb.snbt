@@ -8,9 +8,7 @@
 		uid: "42c66e0f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "bloodmagic:blood_orb",
 			tag: {
 				binding: {

@@ -9,9 +9,7 @@
 		uid: "747a3152",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "excompressum:compressed_hammer_stone"
 		}],
 		ignore_damage: true,

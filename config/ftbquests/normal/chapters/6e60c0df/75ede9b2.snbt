@@ -9,9 +9,7 @@
 		uid: "a1db07ca",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "extrautils2:suncrystal",
 			Damage: 250s
 		}],

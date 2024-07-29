@@ -9,9 +9,7 @@
 		uid: "137dc862",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "mekanism:tierinstaller",
 			Damage: 3s
 		}],

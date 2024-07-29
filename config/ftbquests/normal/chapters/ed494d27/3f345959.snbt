@@ -8,9 +8,7 @@
 		uid: "e776b10f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "mekanismgenerators:generator",
 			Damage: 5s
 		}],

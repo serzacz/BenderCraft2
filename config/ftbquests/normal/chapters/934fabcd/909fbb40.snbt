@@ -8,9 +8,7 @@
 		uid: "07c3060a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "minecraft:bed"
 		}],
 		ignore_nbt: 1b

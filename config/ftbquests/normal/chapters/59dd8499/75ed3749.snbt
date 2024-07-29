@@ -8,9 +8,7 @@
 		uid: "7ef14dac",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "forestry:portable_alyzer"
 		}],
 		ignore_damage: true,

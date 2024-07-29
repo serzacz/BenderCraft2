@@ -8,9 +8,7 @@
 		uid: "630558a6",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "bloodmagic:sentient_sword",
 			tag: {}
 		}],

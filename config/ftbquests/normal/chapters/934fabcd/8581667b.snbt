@@ -8,9 +8,7 @@
 		uid: "363750f2",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "exnihilocreatio:hammer_stone"
 		}],
 		ignore_damage: true,

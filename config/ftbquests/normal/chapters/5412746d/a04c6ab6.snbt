@@ -5,9 +5,7 @@
 		uid: "5015685a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "galacticraftplanets:atomic_battery"
 		}],
 		ignore_damage: true,

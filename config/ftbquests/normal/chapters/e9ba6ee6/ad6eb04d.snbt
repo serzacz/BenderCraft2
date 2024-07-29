@@ -8,9 +8,7 @@
 		uid: "6c5875c2",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "bloodmagic:arcane_ashes"
 		}],
 		ignore_damage: true,

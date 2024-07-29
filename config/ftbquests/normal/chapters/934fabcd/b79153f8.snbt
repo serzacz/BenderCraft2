@@ -8,9 +8,7 @@
 		uid: "c9f45492",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "exnihilocreatio:crook_wood"
 		}],
 		ignore_damage: true,

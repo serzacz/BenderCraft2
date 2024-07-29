@@ -8,9 +8,7 @@
 		uid: "63fb7a36",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "excompressum:bait",
 			Damage: 4s
 		}],

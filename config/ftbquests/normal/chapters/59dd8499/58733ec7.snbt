@@ -8,9 +8,7 @@
 		uid: "58c22e58",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "forestry:frame_impregnated"
 		}],
 		ignore_damage: true,

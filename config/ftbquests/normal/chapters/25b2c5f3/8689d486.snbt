@@ -9,9 +9,7 @@
 		uid: "9b049af5",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 20,

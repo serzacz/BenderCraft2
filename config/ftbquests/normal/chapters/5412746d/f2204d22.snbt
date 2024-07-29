@@ -5,9 +5,7 @@
 		uid: "71399325",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "galacticraftcore:rocket_t1"
 		}],
 		ignore_nbt: 1b

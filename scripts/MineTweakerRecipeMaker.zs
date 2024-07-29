@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<extraplanets:basic_chemical_injector>);
 recipes.remove(<extrautils2:ingredients:8>);
 recipes.remove(<magneticraft:inserter_upgrade:1>);
 recipes.remove(<extrautils2:ingredients:7>);
@@ -46,6 +47,7 @@ recipes.remove(<galacticraftcore:machine>);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<extraplanets:basic_chemical_injector>, [[<ore:blockUranium>, <ore:blockUranium>, <ore:blockUranium>], [<minecraft:piston>, <minecraft:piston>, <minecraft:piston>], [<ore:blockUranium>, <ore:blockUranium>, <ore:blockUranium>]]);
 recipes.addShaped(<extrautils2:ingredients:8>, [
 	[<ore:plateGold>, <minecraft:diamond_pickaxe>, <ore:plateGold>], 
 	[<ore:xuUpgradeBlank>, <ore:plateGold>, <ore:xuUpgradeBlank>], 

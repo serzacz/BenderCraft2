@@ -5,9 +5,7 @@
 		uid: "82f17db5",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "nuclearcraft:helm_hazmat"
 		}],
 		ignore_damage: true,
@@ -17,9 +15,7 @@
 		uid: "2beb475f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "nuclearcraft:chest_hazmat"
 		}],
 		ignore_damage: true,
@@ -29,9 +25,7 @@
 		uid: "d59f1196",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "nuclearcraft:legs_hazmat"
 		}],
 		ignore_damage: true,
@@ -41,9 +35,7 @@
 		uid: "670c9c60",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "nuclearcraft:boots_hazmat"
 		}],
 		ignore_damage: true,

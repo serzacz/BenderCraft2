@@ -5,9 +5,7 @@
 		uid: "eb4d474b",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "astralsorcery:itemshiftingstar",
 			tag: {
 				astralsorcery: {}

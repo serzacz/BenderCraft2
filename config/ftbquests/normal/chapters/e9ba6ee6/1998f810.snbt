@@ -9,9 +9,7 @@
 		uid: "29ebf2ed",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
+
 			id: "bloodmagic:sigil_seer"
 		}],
 		ignore_damage: true,
