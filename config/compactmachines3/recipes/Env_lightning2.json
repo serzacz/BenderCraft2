@@ -1,0 +1,38 @@
+{
+  "name": "compactmachines3:lightningTier2",
+  "target-item": "environmentaltech:lightning_cont_2",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "environmentaltech:lightning_rod",
+
+  "input-types": {
+	"e": { "id": "environmentaltech:erodium", "meta": 0, "ignore-meta": true },
+	"i": { "id": "minecraft:iron_block", "meta": 0, "ignore-meta": true },
+	"g": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": false },
+	"w": { "id": "environmentaltech:interconnect", "meta": 0, "ignore-meta": true },
+	"m": { "id": "environmentaltech:lightning_rod_insulated", "meta": 0, "ignore-meta": true },	
+	"k": { "id": "environmentaltech:lightning_cont_1", "meta": 0, "ignore-meta": true }
+  },
+
+  "symmetrical": true,
+  "shape": [
+	[
+	  ["w","g","w"],
+	  ["g","m","g"],
+	  ["w","g","w"]
+	],
+	[
+	  ["e","g","e"],
+	  ["g","k","g"],
+	  ["e","g","e"]
+	],
+	[
+	  ["e","i","e"],
+	  ["i","i","i"],
+	  ["e","i","e"]
+	]
+  ]
+}

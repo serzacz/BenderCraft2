@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<compactmachines3:psd>);
 recipes.remove(<extraplanets:basic_chemical_injector>);
 recipes.remove(<extrautils2:ingredients:8>);
 recipes.remove(<magneticraft:inserter_upgrade:1>);
@@ -47,6 +48,7 @@ recipes.remove(<galacticraftcore:machine>);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<compactmachines3:psd>, [[<ore:ingotDiamond>, <rftools:screen>, <ore:ingotDiamond>], [<mekanism:polyethene:2>, <buildcraftsilicon:redstone_chipset:3>, <mekanism:polyethene:2>], [<ore:ingotSoulforgedSteel>, <draconicevolution:dislocator>, <ore:ingotSoulforgedSteel>]]);
 recipes.addShaped(<extraplanets:basic_chemical_injector>, [[<ore:blockUranium>, <ore:blockUranium>, <ore:blockUranium>], [<minecraft:piston>, <minecraft:piston>, <minecraft:piston>], [<ore:blockUranium>, <ore:blockUranium>, <ore:blockUranium>]]);
 recipes.addShaped(<extrautils2:ingredients:8>, [
 	[<ore:plateGold>, <minecraft:diamond_pickaxe>, <ore:plateGold>], 

@@ -1,0 +1,38 @@
+{
+  "name": "compactmachines3:oreTier1",
+  "target-item": "environmentaltech:void_ore_miner_cont_1",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:emerald_block",
+
+  "input-types": {
+	"r": { "id": "environmentaltech:litherite", "meta": 0, "ignore-meta": true },
+	"e": { "id": "environmentaltech:structure_frame_1", "meta": 0, "ignore-meta": true },
+	"s": { "id": "minecraft:stained_glass", "meta": 0, "ignore-meta": false },
+	"o": { "id": "environmentaltech:interconnect", "meta": 0, "ignore-meta": true },
+	"u": { "id": "environmentaltech:laser_lens", "meta": 0, "ignore-meta": true },
+	"c": { "id": "minecraft:diamond_block", "meta": 0, "ignore-meta": true }	
+  },
+
+  "symmetrical": true,
+  "shape": [
+	[
+	  ["r","s","r"],
+	  ["s","e","s"],
+	  ["r","s","r"]
+	],
+	[
+	  ["r","s","r"],
+	  ["s","c","s"],
+	  ["r","s","r"]
+	],
+	[
+	  ["o","s","o"],
+	  ["s","u","s"],
+	  ["o","s","o"]
+	]
+  ]
+}	

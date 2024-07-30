@@ -9,7 +9,7 @@ recipes.remove(<draconicevolution:wyvern_helm>);
 recipes.remove(<draconicevolution:wyvern_chest>);
 recipes.remove(<draconicevolution:wyvern_legs>);
 recipes.remove(<draconicevolution:wyvern_boots>);
-
+recipes.remove(<draconicevolution:crafting_injector>); // recept v compact machine config
 
 
 // add

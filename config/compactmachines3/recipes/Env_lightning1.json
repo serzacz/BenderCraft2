@@ -1,0 +1,38 @@
+
+{
+  "name": "compactmachines3:lightningTier1",
+  "target-item": "environmentaltech:lightning_cont_1",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "environmentaltech:lightning_rod",
+
+  "input-types": {
+	"e": { "id": "environmentaltech:litherite", "meta": 0, "ignore-meta": true },
+	"i": { "id": "minecraft:iron_block", "meta": 0, "ignore-meta": true },
+	"g": { "id": "minecraft:stained_glass", "meta": 0, "ignore-meta": false },
+	"w": { "id": "environmentaltech:interconnect", "meta": 0, "ignore-meta": true },
+	"m": { "id": "environmentaltech:lightning_rod_insulated", "meta": 0, "ignore-meta": true }	
+  },
+
+  "symmetrical": true,
+  "shape": [
+	[
+	  ["w","g","w"],
+	  ["g","m","g"],
+	  ["w","g","w"]
+	],
+	[
+	  ["e","g","e"],
+	  ["g","m","g"],
+	  ["e","g","e"]
+	],
+	[
+	  ["e","i","e"],
+	  ["i","i","i"],
+	  ["e","i","e"]
+	]
+  ]
+}	

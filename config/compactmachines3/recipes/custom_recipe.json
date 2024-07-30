@@ -1,0 +1,39 @@
+{
+  "name": "compactmachines3:draconic_injector",
+  "target-item": "draconicevolution:crafting_injector",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "embers:seed_aluminum",
+
+  "input-types": {
+    "d": { "id": "galacticraftplanets:mars", "meta": 8, "ignore-meta": false },
+	"i": { "id": "minecraft:iron_block", "meta": 0, "ignore-meta": true },
+	"m": { "id": "minecraft:diamond_block", "meta": 0, "ignore-meta": true },
+	"w": { "id": "draconicevolution:particle_generator", "meta": 2, "ignore-meta": false },
+	"g": { "id": "buildcraftsilicon:assembly_table", "meta": 0, "ignore-meta": true },
+	"f": { "id": "enderio:block_dark_fused_quartz", "meta": 2, "ignore-meta": true }
+	
+  },
+
+  "symmetrical": true,
+  "shape": [
+    [
+      ["m","i","m"],
+      ["f","g","f"],
+      ["m","i","m"]
+    ],
+    [
+      ["i","i","i"],
+      ["f","w","f"],
+      ["i","i","i"]
+    ],
+    [
+      ["d","d","d"],
+      ["d","d","d"],
+      ["d","d","d"]
+    ]
+  ]
+}
