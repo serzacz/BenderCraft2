@@ -1,0 +1,38 @@
+{
+  "name": "compactmachines3:botaTier4",
+  "target-item": "environmentaltech:void_botanic_miner_cont_4",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:chorus_fruit",
+
+  "input-types": {
+	"r": { "id": "environmentaltech:pladium", "meta": 0, "ignore-meta": true },
+	"e": { "id": "environmentaltech:structure_frame_4", "meta": 0, "ignore-meta": true },
+	"s": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"o": { "id": "environmentaltech:interconnect", "meta": 0, "ignore-meta": true },
+	"u": { "id": "environmentaltech:laser_lens", "meta": 0, "ignore-meta": true },
+	"c": { "id": "environmentaltech:void_botanic_miner_cont_4", "meta": 0, "ignore-meta": true }	
+  },
+
+  "symmetrical": true,
+  "shape": [
+	[
+	  ["r","s","r"],
+	  ["s","e","s"],
+	  ["r","s","r"]
+	],
+	[
+	  ["r","s","r"],
+	  ["s","c","s"],
+	  ["r","s","r"]
+	],
+	[
+	  ["o","s","o"],
+	  ["s","u","s"],
+	  ["o","s","o"]
+	]
+  ]
+}	

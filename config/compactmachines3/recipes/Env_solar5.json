@@ -1,0 +1,38 @@
+{
+  "name": "compactmachines3:solarTier5",
+  "target-item": "environmentaltech:solar_cont_5",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "botania:quartztypesunny",
+
+  "input-types": {
+	"r": { "id": "environmentaltech:ionite", "meta": 0, "ignore-meta": true },
+	"e": { "id": "environmentaltech:solar_cell_ionite", "meta": 0, "ignore-meta": true },
+	"s": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"o": { "id": "environmentaltech:interconnect", "meta": 0, "ignore-meta": true },
+	"u": { "id": "minecraft:lapis_block", "meta": 0, "ignore-meta": true },
+	"c": { "id": "environmentaltech:solar_cont_4", "meta": 0, "ignore-meta": true }	
+  },
+
+  "symmetrical": true,
+  "shape": [
+	[
+	  ["o","s","o"],
+	  ["s","e","s"],
+	  ["o","s","o"]
+	],
+	[
+	  ["r","s","r"],
+	  ["s","c","s"],
+	  ["r","s","r"]
+	],
+	[
+	  ["r","u","r"],
+	  ["u","u","u"],
+	  ["r","u","r"]
+	]
+  ]
+}	

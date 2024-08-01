@@ -41,11 +41,51 @@ for item in IArray {
 }
 
 
+val EArray = [
+	<environmentaltech:void_botanic_miner_cont_1>,
+	<environmentaltech:void_botanic_miner_cont_2>,
+	<environmentaltech:void_botanic_miner_cont_3>,
+	<environmentaltech:void_botanic_miner_cont_4>,
+	<environmentaltech:void_botanic_miner_cont_5>,
+	<environmentaltech:void_botanic_miner_cont_6>,
+	<environmentaltech:lightning_cont_1>,
+	<environmentaltech:lightning_cont_2>,
+	<environmentaltech:lightning_cont_3>,
+	<environmentaltech:lightning_cont_4>,
+	<environmentaltech:lightning_cont_5>,
+	<environmentaltech:lightning_cont_6>,
+	<environmentaltech:void_ore_miner_cont_1>,
+	<environmentaltech:void_ore_miner_cont_2>,
+	<environmentaltech:void_ore_miner_cont_3>,
+	<environmentaltech:void_ore_miner_cont_4>,
+	<environmentaltech:void_ore_miner_cont_5>,
+	<environmentaltech:void_ore_miner_cont_6>,
+	<environmentaltech:nano_cont_personal_1>,
+	<environmentaltech:nano_cont_personal_2>,
+	<environmentaltech:nano_cont_personal_3>,
+	<environmentaltech:nano_cont_personal_4>,
+	<environmentaltech:nano_cont_personal_5>,
+	<environmentaltech:nano_cont_personal_6>,
+	<environmentaltech:nano_cont_ranged_1>,
+	<environmentaltech:nano_cont_ranged_2>,
+	<environmentaltech:nano_cont_ranged_3>,
+	<environmentaltech:nano_cont_ranged_4>,
+	<environmentaltech:nano_cont_ranged_5>,
+	<environmentaltech:nano_cont_ranged_6>,
+	<environmentaltech:void_res_miner_cont_1>,
+	<environmentaltech:void_res_miner_cont_2>,
+	<environmentaltech:void_res_miner_cont_3>,
+	<environmentaltech:void_res_miner_cont_4>,
+	<environmentaltech:void_res_miner_cont_5>,
+	<environmentaltech:void_res_miner_cont_6>,
+	<environmentaltech:solar_cont_1>,
+	<environmentaltech:solar_cont_2>,
+	<environmentaltech:solar_cont_3>,
+	<environmentaltech:solar_cont_4>,
+	<environmentaltech:solar_cont_5>,
+	<environmentaltech:solar_cont_6>
+] as IItemStack[];
 
-
-
-
-
-
-
-
+for name in EArray {
+		recipes.remove(name);
+}

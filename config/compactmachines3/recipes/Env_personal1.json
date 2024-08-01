@@ -1,0 +1,38 @@
+{
+  "name": "compactmachines3:personalTier1",
+  "target-item": "environmentaltech:nano_cont_personal_1",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:nether_star",
+
+  "input-types": {
+	"r": { "id": "environmentaltech:litherite", "meta": 0, "ignore-meta": true },
+	"e": { "id": "minecraft:beacon", "meta": 0, "ignore-meta": true },
+	"s": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"o": { "id": "environmentaltech:interconnect", "meta": 0, "ignore-meta": true },
+	"u": { "id": "environmentaltech:modifier_null", "meta": 0, "ignore-meta": true },
+	"c": { "id": "environmentaltech:nano_cont_ranged_6", "meta": 0, "ignore-meta": true }	
+  },
+
+  "symmetrical": true,
+  "shape": [
+	[
+	  ["r","s","r"],
+	  ["s","e","s"],
+	  ["r","s","r"]
+	],
+	[
+	  ["r","s","r"],
+	  ["s","c","s"],
+	  ["r","s","r"]
+	],
+	[
+	  ["o","u","o"],
+	  ["u","u","u"],
+	  ["o","u","o"]
+	]
+  ]
+}	
