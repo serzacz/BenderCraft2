@@ -256,6 +256,24 @@ recipes.addShaped(<randomthings:summoningpendulum>, [
 recipes.addShapeless(<magneticraft:ingots:5>, [<extraplanets:tier9_items:5>]);
 recipes.addShapeless(<extraplanets:tier9_items:5>, [<magneticraft:ingots:5>]);
 
+recipes.remove(<extrautils2:angelblock>);
+recipes.addShaped(<extrautils2:angelblock>, [
+	[<ore:feather>, <ore:obsidian>, <ore:feather>], 
+	[<ore:blockGold>, <ore:netherStar>, <ore:blockGold>], 
+	[<ore:obsidian>, <hatchery:feather_pulp>, <minecraft:obsidian>]
+	]);
+
+recipes.remove(<compactmachines3:psd>);
+recipes.addShaped(<compactmachines3:psd>, [
+	[<ore:ingotDiamond>, <rftools:screen>, <ore:ingotDiamond>], 
+	[<mekanism:polyethene:2>, <buildcraftsilicon:redstone_chipset:3>, <mekanism:polyethene:2>], 
+	[<ore:ingotSoulforgedSteel>, <draconicevolution:dislocator>, <ore:ingotSoulforgedSteel>]
+	]);
 
 
-
+recipes.remove(<enderio:item_material:66>);
+recipes.addShaped(<enderio:item_material:66>, [
+	[<enderio:block_end_iron_bars>, <ore:ingotEndSteel>, <enderio:block_end_iron_bars>], 
+	[<ore:ingotEndSteel>, <enderio:item_material:1>, <ore:ingotEndSteel>], 
+	[<enderio:block_end_iron_bars>, <ore:skullSkeletalContractor>, <enderio:block_end_iron_bars>]
+	]);

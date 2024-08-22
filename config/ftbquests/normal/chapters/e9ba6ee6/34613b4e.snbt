@@ -9,7 +9,9 @@
 		uid: "baf73fd3",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "bloodmagic:bound_sword",
 			tag: {
 				ench: [{

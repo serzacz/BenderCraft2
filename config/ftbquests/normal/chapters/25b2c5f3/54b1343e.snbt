@@ -5,7 +5,8 @@
 			"astralsorcery:cap_item_amulet_holder": {}
 		},
 		id: "projecte:item.pe_philosophers_stone",
-		tag: {}
+		tag: {},
+		Count: 1b
 	},
 	x: -0.5d,
 	y: 4.0d,
@@ -16,9 +17,9 @@
 		uid: "b8c0f6a4",
 		type: "item",
 		items: [{
-
 			id: "projecte:item.pe_philosophers_stone",
-			tag: {}
+			tag: {},
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

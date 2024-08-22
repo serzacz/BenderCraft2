@@ -12,26 +12,6 @@
 
 // ================================================================================
 //#MARKER REMOVE
-recipes.remove(<compactmachines3:psd>);
-recipes.remove(<extraplanets:basic_chemical_injector>);
-recipes.remove(<extrautils2:ingredients:8>);
-recipes.remove(<magneticraft:inserter_upgrade:1>);
-recipes.remove(<extrautils2:ingredients:7>);
-recipes.remove(<magneticraft:inserter_upgrade>);
-recipes.remove(<extrautils2:ingredients:6>);
-recipes.remove(<storagedrawers:upgrade_void>);
-recipes.remove(<storagedrawers:upgrade_storage:4>);
-recipes.remove(<storagedrawers:upgrade_storage:3>);
-recipes.remove(<storagedrawers:upgrade_storage:2>);
-recipes.remove(<storagedrawers:upgrade_storage:1>);
-recipes.remove(<storagedrawers:upgrade_storage:0>);
-recipes.remove(<tconstruct:slime_grass:1>);
-
-
-recipes.remove(<enderio:item_material:66>);
-recipes.remove(<mekanismgenerators:generator>);
-recipes.remove(<galacticraftcore:machine>);
-
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
@@ -45,114 +25,9 @@ recipes.remove(<galacticraftcore:machine>);
 // ================================================================================
 //#MARKER ADD SHAPELESS
 
-
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<compactmachines3:psd>, [[<ore:ingotDiamond>, <rftools:screen>, <ore:ingotDiamond>], [<mekanism:polyethene:2>, <buildcraftsilicon:redstone_chipset:3>, <mekanism:polyethene:2>], [<ore:ingotSoulforgedSteel>, <draconicevolution:dislocator>, <ore:ingotSoulforgedSteel>]]);
-recipes.addShaped(<extraplanets:basic_chemical_injector>, [[<ore:blockUranium>, <ore:blockUranium>, <ore:blockUranium>], [<minecraft:piston>, <minecraft:piston>, <minecraft:piston>], [<ore:blockUranium>, <ore:blockUranium>, <ore:blockUranium>]]);
-recipes.addShaped(<extrautils2:ingredients:8>, [
-	[<ore:plateGold>, <minecraft:diamond_pickaxe>, <ore:plateGold>], 
-	[<ore:xuUpgradeBlank>, <ore:plateGold>, <ore:xuUpgradeBlank>], 
-	[<ore:xuUpgradeBlank>, <ore:plateGold>, <ore:xuUpgradeBlank>]
-	]);
 
-recipes.addShaped(<magneticraft:inserter_upgrade:1>, [
-	[<ore:chest>, <ic2:casing:3>, <ore:chest>], 
-	[<ic2:casing:3>, <ore:xuUpgradeStack>, <ic2:casing:3>], 
-	[<ore:chest>, <ic2:casing:3>, <ore:chest>]
-	]);
-
-recipes.addShaped(<extrautils2:ingredients:7>, [
-	[<ore:xuUpgradeBlank>, <ore:nuggetGold>, <ore:xuUpgradeBlank>], 
-	[<ore:xuUpgradeBlank>, <ore:plateGold>, <ore:xuUpgradeBlank>], 
-	[<ore:nuggetGold>, <ore:blockGold>, <ore:nuggetGold>]
-	]);
-
-recipes.addShaped(<magneticraft:inserter_upgrade>, [
-	[<ore:listAllsugar>, <ic2:casing:3>, <ore:listAllsugar>], 
-	[<ic2:casing:3>, <ore:xuUpgradeSpeed>, <ic2:casing:3>], 
-	[<ore:listAllsugar>, <ic2:casing:3>, <ore:listAllsugar>]
-	]);
-
-recipes.addShaped(<extrautils2:ingredients:6>, [
-	[<ore:xuUpgradeBlank>, <ore:nuggetGold>, <ore:xuUpgradeBlank>], 
-	[<ore:nuggetGold>, <ore:ingotGold>, <ore:nuggetGold>], 
-	[<ore:xuUpgradeBlank>, <ore:ingotGold>, <ore:xuUpgradeBlank>]
-	]);
-
-recipes.addShaped(<storagedrawers:upgrade_void>, [
-	[<ore:obsidian>, <ore:plateDenseObsidian>, <ore:obsidian>], 
-	[<ore:dustObsidian>, <storagedrawers:upgrade_template>, <ore:dustObsidian>], 
-	[<ore:obsidian>, <minecraft:lava_bucket>, <ore:obsidian>]
-	]);
-	
-recipes.addShaped(<storagedrawers:upgrade_storage:4>, [
-	[<ore:stickWood>, <ore:heavyPlateSteel>, <ore:stickWood>], 
-	[<ore:gemEmerald>, <storagedrawers:upgrade_storage:3>, <ore:gemEmerald>], 
-	[<ore:stickWood>, <minecraft:piston>, <ore:stickWood>]
-	]);
-	
-recipes.addShaped(<storagedrawers:upgrade_storage:3>, [
-	[<ore:stickWood>, <ore:heavyPlateLead>, <ore:stickWood>], 
-	[<ore:gemDiamond>, <storagedrawers:upgrade_storage:2>, <ore:gemDiamond>], 
-	[<ore:stickWood>, <minecraft:piston>, <ore:stickWood>]
-	]);
-
-recipes.addShaped(<storagedrawers:upgrade_storage:2>, [
-	[<ore:stickWood>, <ore:lightPlateGold>, <ore:stickWood>], 
-	[<ore:plateGold>, <storagedrawers:upgrade_storage:1>, <ore:plateGold>], 
-	[<ore:stickWood>, <minecraft:piston>, <ore:stickWood>]
-	]);
-
-recipes.addShaped(<storagedrawers:upgrade_storage:1>, [
-	[<ore:stickWood>, <ore:lightPlateIron>, <ore:stickWood>], 
-	[<ore:plateIron>, <storagedrawers:upgrade_storage>, <ore:plateIron>], 
-	[<ore:stickWood>, <minecraft:piston>, <ore:stickWood>]
-	]);
-
-recipes.addShaped(<storagedrawers:upgrade_storage>, [
-	[<ore:stickWood>, <ore:plateCopper>, <ore:stickWood>], 
-	[<ore:plateObsidian>, <storagedrawers:upgrade_template>, <ore:plateObsidian>],
-	[<ore:stickWood>, <minecraft:piston>, <ore:stickWood>]
-	]);
-
-recipes.addShaped(<tconstruct:slime_sapling:2>, [
-	[null, <exnihilocreatio:item_doll>, null], 
-	[<minecraft:lava_bucket>, <tconstruct:slime_sapling:1>, <minecraft:lava_bucket>], 
-	[null, <ore:blockMagma>, null]
-	]);
-
-recipes.addShaped(<tconstruct:slime_sapling:1>, [
-	[null, <ore:dustLapis>, null], 
-	[<ore:petalPurple>, <tconstruct:slime_sapling>, <ore:petalPurple>], 
-	[null, <tconstruct:materials:10>, null]
-	]);
-
-recipes.addShaped(<tconstruct:slime_grass:1>, [
-	[null, <tconstruct:edible:30>, null], 
-	[<tconstruct:edible:30>, <ore:grass>, <tconstruct:edible:30>], 
-	[null, <ore:slimecrystal>, null]
-	]);
-
-recipes.addShaped(<enderio:item_material:66>, [
-	[<enderio:block_end_iron_bars>, <ore:ingotEndSteel>, <enderio:block_end_iron_bars>], 
-	[<ore:ingotEndSteel>, <enderio:item_material:1>, <ore:ingotEndSteel>], 
-	[<enderio:block_end_iron_bars>, <ore:skullSkeletalContractor>, <enderio:block_end_iron_bars>]
-	]);
-
-
-recipes.addShaped(<mekanismgenerators:generator>, [
-	[<ore:plateNickel>, <ore:plateNickel>, <ore:plateNickel>], 
-	[<forestry:thermionic_tubes:7>, <ore:ingotOsmium>, <forestry:thermionic_tubes:7>], 
-	[<ore:plateIron>, <extrautils2:machine>.withTag({Type: "extrautils2:generator_lava"}), <ore:plateIron>]
-	]);
-
-
-recipes.addShaped(<galacticraftcore:machine>, [
-	[<ore:plateCopper>, <ore:plateCopper>, <ore:plateCopper>], 
-	[<ore:plateIron>, <extrautils2:machine>.withTag({Type: "extrautils2:generator_survival"}), <ore:plateIron>], 
-	[<ore:plateIron>, <galacticraftcore:aluminum_wire>, <ore:plateIron>]
-	]);
 
 
 

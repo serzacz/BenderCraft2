@@ -5,7 +5,9 @@
 		uid: "2cd7fe22",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "astralsorcery:itemhandtelescope"
 		}],
 		ignore_damage: true,

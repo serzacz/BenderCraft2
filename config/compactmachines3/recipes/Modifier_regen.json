@@ -1,0 +1,38 @@
+{
+  "name": "environmentaltech:modifier_regeneration",
+  "target-item": "environmentaltech:modifier_regeneration",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:emerald_block",
+
+  "input-types": {
+	"m": { "id": "environmentaltech:modifier_null", "meta": 0, "ignore-meta": true },
+	"o": { "id": "environmentaltech:pladium", "meta": 0, "ignore-meta": true },
+	"d": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"i": { "id": "minecraft:nether_wart_block", "meta": 0, "ignore-meta": true },
+	"f": { "id": "environmentaltech:lonsdaleite", "meta": 0, "ignore-meta": true },
+	"r": { "id": "betterwithmods:aesthetic", "meta": 2, "ignore-meta": false }
+  },
+
+  "symmetrical": false,
+  "shape": [ 
+	[
+	  ["i","d","i"],
+	  ["d","f","d"],
+	  ["i","d","i"]
+	],
+	[
+	  ["o","f","o"],
+	  ["f","m","f"],
+	  ["o","f","o"]
+	],
+	[
+	  ["r","d","r"],
+	  ["d","f","d"],
+	  ["r","d","r"]
+	]
+  ]
+}	

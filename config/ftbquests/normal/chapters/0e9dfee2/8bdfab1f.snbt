@@ -11,7 +11,9 @@
 		uid: "889b163d",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "ic2:forge_hammer"
 		}],
 		ignore_damage: true,

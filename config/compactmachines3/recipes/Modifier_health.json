@@ -1,0 +1,37 @@
+{
+  "name": "environmentaltech:modifier_health_boost",
+  "target-item": "environmentaltech:modifier_health_boost",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:emerald_block",
+
+  "input-types": {
+	"m": { "id": "environmentaltech:modifier_null", "meta": 0, "ignore-meta": true },
+	"o": { "id": "bloodmagic:blood_rune", "meta": 6, "ignore-meta": false },
+	"d": { "id": "environmentaltech:kyronite", "meta": 0, "ignore-meta": true },
+	"i": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"f": { "id": "environmentaltech:lonsdaleite", "meta": 0, "ignore-meta": true }	
+  },
+
+  "symmetrical": false,
+  "shape": [
+	[
+	  ["d","f","d"],
+	  ["f","f","f"],
+	  ["d","f","d"]
+	],
+	[
+	  ["o","i","o"],
+	  ["i","m","i"],
+	  ["o","i","o"]
+	],
+	[
+	  ["d","f","d"],
+	  ["f","f","f"],
+	  ["d","f","d"]
+	]
+  ]
+}	

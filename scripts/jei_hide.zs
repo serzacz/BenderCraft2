@@ -83,7 +83,25 @@ val EArray = [
 	<environmentaltech:solar_cont_3>,
 	<environmentaltech:solar_cont_4>,
 	<environmentaltech:solar_cont_5>,
-	<environmentaltech:solar_cont_6>
+	<environmentaltech:solar_cont_6>,
+	<environmentaltech:modifier_flight_speed>,
+	<environmentaltech:modifier_haste>,
+	<environmentaltech:modifier_jump_boost>,
+	<environmentaltech:modifier_regeneration>,
+	<environmentaltech:modifier_fire_resistance>,
+	<environmentaltech:modifier_invisibility>,
+	<environmentaltech:modifier_luck>,
+	<environmentaltech:modifier_water_breathing>,
+	<environmentaltech:modifier_piezo>,
+	<environmentaltech:modifier_resistance>,
+	<environmentaltech:modifier_speed>,
+	<environmentaltech:modifier_saturation>,
+	<environmentaltech:modifier_night_vision>,
+	<environmentaltech:modifier_strength>,
+	<environmentaltech:modifier_creative_flight>,
+	<environmentaltech:modifier_glowing>,
+	<environmentaltech:modifier_accuracy>,
+	<environmentaltech:modifier_health_boost>
 ] as IItemStack[];
 
 for name in EArray {

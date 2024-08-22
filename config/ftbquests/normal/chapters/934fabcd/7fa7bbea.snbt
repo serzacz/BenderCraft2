@@ -8,7 +8,9 @@
 		uid: "fecc2cff",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "minecraft:lava_bucket"
 		}],
 		ignore_damage: true,

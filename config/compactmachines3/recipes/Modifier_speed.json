@@ -1,0 +1,37 @@
+{
+  "name": "environmentaltech:modifier_speed",
+  "target-item": "environmentaltech:modifier_speed",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:emerald_block",
+
+  "input-types": {
+	"m": { "id": "environmentaltech:modifier_null", "meta": 0, "ignore-meta": true },
+	"o": { "id": "environmentaltech:erodium", "meta": 0, "ignore-meta": true },
+	"d": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"f": { "id": "minecraft:redstone_block", "meta": 0, "ignore-meta": true },
+	"r": { "id": "bloodmagic:blood_rune", "meta": 9, "ignore-meta": false }	
+  },
+
+  "symmetrical": false,
+  "shape": [
+	[
+	  ["o","d","o"],
+	  ["d","f","d"],
+	  ["o","d","o"]
+	],
+	[
+	  ["r","f","r"],
+	  ["f","m","f"],
+	  ["r","f","r"]
+	],
+	[
+	  ["o","d","o"],
+	  ["d","f","d"],
+	  ["o","d","o"]
+	]
+  ]
+}	

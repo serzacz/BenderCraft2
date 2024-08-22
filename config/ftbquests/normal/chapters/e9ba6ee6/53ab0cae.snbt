@@ -9,7 +9,9 @@
 		uid: "86667105",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "bloodmagic:ritual_dismantler"
 		}],
 		ignore_damage: true,

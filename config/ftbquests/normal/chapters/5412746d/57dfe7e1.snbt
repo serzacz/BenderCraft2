@@ -19,7 +19,9 @@
 		uid: "6ee27ad8",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "galacticraftcore:parachute"
 		}],
 		ignore_nbt: 1b
@@ -42,7 +44,9 @@
 		uid: "2de006eb",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "galacticraftcore:oxygen_tank_heavy_full",
 			Damage: 2700s
 		}],

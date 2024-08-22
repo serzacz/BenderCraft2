@@ -8,7 +8,9 @@
 		uid: "ca5974a6",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "mekanism:machineblock2",
 			tag: {
 				mekData: {}

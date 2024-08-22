@@ -1,0 +1,38 @@
+{
+  "name": "environmentaltech:modifier_saturation",
+  "target-item": "environmentaltech:modifier_saturation",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:emerald_block",
+
+  "input-types": {
+	"m": { "id": "environmentaltech:modifier_null", "meta": 0, "ignore-meta": true },
+	"o": { "id": "minecraft:melon_block", "meta": 0, "ignore-meta": true },
+	"d": { "id": "environmentaltech:ionite", "meta": 0, "ignore-meta": true },
+	"i": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"f": { "id": "environmentaltech:lonsdaleite", "meta": 0, "ignore-meta": true },
+	"r": { "id": "minecraft:pumpkin", "meta": 0, "ignore-meta": true }
+  },
+
+  "symmetrical": false,
+  "shape": [
+	[
+	  ["d","f","d"],
+	  ["f","f","f"],
+	  ["d","f","d"]
+	],
+	[
+	  ["r","o","r"],
+	  ["o","m","o"],
+	  ["r","o","r"]
+	],
+	[
+	  ["d","i","d"],
+	  ["i","f","i"],
+	  ["d","i","d"]
+	]
+  ]
+}	

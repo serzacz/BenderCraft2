@@ -9,7 +9,9 @@
 		uid: "6baf4444",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "embers:tinker_hammer",
 			tag: {
 				targetZ: 6040,

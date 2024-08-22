@@ -1,0 +1,37 @@
+{
+  "name": "environmentaltech:modifier_jump_boost",
+  "target-item": "environmentaltech:modifier_jump_boost",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:emerald_block",
+
+  "input-types": {
+	"m": { "id": "environmentaltech:modifier_null", "meta": 0, "ignore-meta": true },
+	"o": { "id": "minecraft:diamond_block", "meta": 0, "ignore-meta": true },
+	"d": { "id": "environmentaltech:litherite", "meta": 0, "ignore-meta": true },
+	"i": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"f": { "id": "environmentaltech:lonsdaleite", "meta": 0, "ignore-meta": true }	
+  },
+
+  "symmetrical": false,
+  "shape": [
+	[
+	  ["i","i","i"],
+	  ["i","f","i"],
+	  ["i","i","i"]
+	],
+	[
+	  ["i","d","i"],
+	  ["o","m","o"],
+	  ["i","d","i"]
+	],
+	[
+	  ["i","i","i"],
+	  ["i","f","i"],
+	  ["i","i","i"]
+	]
+  ]
+}	

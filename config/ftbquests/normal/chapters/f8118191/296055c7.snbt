@@ -18,7 +18,9 @@
 		uid: "3426e854",
 		type: "advancement",
 		icon: {
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "minecraft:flint_and_steel"
 		},
 		advancement: "monk:level_12",

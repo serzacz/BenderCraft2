@@ -14,9 +14,9 @@ recipes.remove(<draconicevolution:crafting_injector>); // recept v compact machi
 
 // add
 recipes.addShaped(<draconicevolution:draconic_core>, [
-	[<ore:ingotDraconium>, <ore:ingotGold>, <ore:ingotDraconium>], 
-	[<ore:blockEnchantedGravitite>, <forestry:thermionic_tubes:12>, <ore:blockEnchantedGravitite>], 
-	[<ore:ingotDraconium>, <ore:ingotGold>, <ore:ingotDraconium>]
+	[<ore:ingotDraconium>, <aether_legacy:ambrosium_shard>, <ore:ingotDraconium>], 
+	[<nuclearcraft:compound:1>, <forestry:thermionic_tubes:12>, <nuclearcraft:compound:1>], 
+	[<ore:ingotDraconium>, <aether_legacy:ambrosium_shard>, <ore:ingotDraconium>]
 	]);
 	
 recipes.addShaped(<draconicevolution:wyvern_core>, [

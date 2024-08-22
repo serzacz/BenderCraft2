@@ -1,0 +1,39 @@
+{
+  "name": "environmentaltech:modifier_creative_flight",
+  "target-item": "environmentaltech:modifier_creative_flight",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:emerald_block",
+
+  "input-types": {
+	"m": { "id": "environmentaltech:modifier_null", "meta": 0, "ignore-meta": true },
+	"o": { "id": "extrautils2:angelblock", "meta": 0, "ignore-meta": true },
+	"d": { "id": "environmentaltech:ionite", "meta": 0, "ignore-meta": true },
+	"i": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"f": { "id": "environmentaltech:aethium", "meta": 0, "ignore-meta": true },
+	"e": { "id": "bloodmagic:blood_rune", "meta": 1, "ignore-meta": false },
+	"r": { "id": "bloodmagic:blood_rune", "meta": 10, "ignore-meta": false }	
+  },
+
+  "symmetrical": false,
+  "shape": [
+	[
+	  ["e","d","e"],
+	  ["d","f","d"],
+	  ["e","d","e"]
+	],
+	[
+	  ["i","o","i"],
+	  ["o","m","o"],
+	  ["i","o","i"]
+	],
+	[
+	  ["f","r","f"],
+	  ["r","f","r"],
+	  ["f","r","f"]
+	]
+  ]
+}	

@@ -5,7 +5,9 @@
 		uid: "efeb3e8f",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "astralsorcery:itemjournal"
 		}],
 		ignore_damage: true,
@@ -15,7 +17,9 @@
 		uid: "3afb02e9",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "astralsorcery:itemwand",
 			tag: {
 				astralsorcery: {}

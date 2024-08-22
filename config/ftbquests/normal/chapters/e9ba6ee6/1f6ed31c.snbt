@@ -8,7 +8,9 @@
 		uid: "6468b1f5",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "bloodmagic:soul_gem",
 			tag: {},
 			Damage: 4s

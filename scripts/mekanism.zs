@@ -3,6 +3,7 @@
 // remove
 recipes.remove(<mekanism:machineblock:8>);
 recipes.remove(<mekanism:basicblock:8>);
+recipes.remove(<mekanismgenerators:generator>);
 
 // add
 recipes.addShaped(<mekanism:machineblock:8>, [
@@ -17,7 +18,11 @@ recipes.addShaped(<mekanism:basicblock:8>, [
 	[<ore:plateIron>, <embers:winding_gears>, <ore:plateIron>]
 	]);
 
-
+recipes.addShaped(<mekanismgenerators:generator>, [
+	[<ore:plateNickel>, <ore:plateNickel>, <ore:plateNickel>], 
+	[<forestry:thermionic_tubes:7>, <ore:ingotOsmium>, <forestry:thermionic_tubes:7>], 
+	[<ore:plateIron>, <extrautils2:machine>.withTag({Type: "extrautils2:generator_lava"}), <ore:plateIron>]
+	]);
 
 
 

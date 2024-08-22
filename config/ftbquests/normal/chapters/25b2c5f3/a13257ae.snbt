@@ -18,7 +18,9 @@
 		uid: "58034853",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "mekanism:machineblock"
 		}],
 		ignore_nbt: 1b

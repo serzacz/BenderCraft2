@@ -9,7 +9,9 @@
 		uid: "37a87b2d",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "aroma1997sdimension:dimensionchanger"
 		}],
 		ignore_damage: true,

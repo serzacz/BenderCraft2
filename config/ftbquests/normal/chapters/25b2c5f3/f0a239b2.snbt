@@ -16,7 +16,9 @@
 		uid: "0f679766",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "aroma1997sdimension:miningmultitool"
 		}],
 		ignore_damage: true,

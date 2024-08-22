@@ -17,9 +17,27 @@ mods.tconstruct.Casting.addTableRecipe(<enderio:item_material:73>, <enderio:item
 
 
 
+// remove
+recipes.remove(<tconstruct:slime_grass:1>);
 
+// add sapling
+recipes.addShaped(<tconstruct:slime_sapling:2>, [
+	[null, <exnihilocreatio:item_doll>, null], 
+	[<minecraft:lava_bucket>, <tconstruct:slime_sapling:1>, <minecraft:lava_bucket>], 
+	[null, <ore:blockMagma>, null]
+	]);
 
+recipes.addShaped(<tconstruct:slime_sapling:1>, [
+	[null, <ore:dustLapis>, null], 
+	[<ore:petalPurple>, <tconstruct:slime_sapling>, <ore:petalPurple>], 
+	[null, <tconstruct:materials:10>, null]
+	]);
 
+recipes.addShaped(<tconstruct:slime_grass:1>, [
+	[null, <tconstruct:edible:30>, null], 
+	[<tconstruct:edible:30>, <ore:grass>, <tconstruct:edible:30>], 
+	[null, <ore:slimecrystal>, null]
+	]);
 
 
 

@@ -18,7 +18,9 @@
 		uid: "7bce9f48",
 		type: "advancement",
 		icon: {
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "minecraft:elytra"
 		},
 		advancement: "monk:level_20",

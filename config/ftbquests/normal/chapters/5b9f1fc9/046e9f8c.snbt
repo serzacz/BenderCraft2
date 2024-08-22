@@ -5,7 +5,9 @@
 		uid: "f460649e",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "astralsorcery:blockcelestialcollectorcrystal",
 			tag: {
 				astralsorcery: {

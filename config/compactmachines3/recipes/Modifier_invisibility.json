@@ -1,0 +1,38 @@
+{
+  "name": "compactmachines3:Modifier_invisibility",
+  "target-item": "environmentaltech:modifier_invisibility",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:emerald_block",
+
+  "input-types": {
+	"m": { "id": "environmentaltech:modifier_null", "meta": 0, "ignore-meta": true },
+	"o": { "id": "tinker_io:what_a_beautiful_block", "meta": 0, "ignore-meta": true },
+	"d": { "id": "enderio:block_dark_fused_quartz", "meta": 0, "ignore-meta": true },
+	"i": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"f": { "id": "environmentaltech:lonsdaleite", "meta": 0, "ignore-meta": true },
+	"r": { "id": "environmentaltech:ionite", "meta": 0, "ignore-meta": true }	
+  },
+
+  "symmetrical": false,
+  "shape": [
+	[
+	  ["o","i","o"],
+	  ["i","d","i"],
+	  ["o","i","o"]
+	],
+	[
+	  ["r","d","r"],
+	  ["d","m","d"],
+	  ["r","d","r"]
+	],
+	[
+	  ["f","i","f"],
+	  ["i","d","i"],
+	  ["f","i","f"]
+	]
+  ]
+}	

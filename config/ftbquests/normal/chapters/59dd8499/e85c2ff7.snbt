@@ -8,7 +8,9 @@
 		uid: "78af6386",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "forestry:scoop"
 		}],
 		ignore_damage: true,
@@ -18,7 +20,9 @@
 		uid: "6d015bc2",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "forestry:smoker"
 		}],
 		ignore_damage: true,

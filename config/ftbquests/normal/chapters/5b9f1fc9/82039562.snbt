@@ -5,7 +5,9 @@
 		uid: "2507a7f0",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "astralsorcery:itemskyresonator",
 			tag: {
 				astralsorcery: {}

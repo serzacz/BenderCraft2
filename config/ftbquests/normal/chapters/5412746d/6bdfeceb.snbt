@@ -5,7 +5,9 @@
 		uid: "879ccc9c",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "galacticraftplanets:schematic"
 		}],
 		ignore_nbt: 1b

@@ -1,0 +1,38 @@
+{
+  "name": "environmentaltech:modifier_resistance",
+  "target-item": "environmentaltech:modifier_resistance",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:emerald_block",
+
+  "input-types": {
+	"m": { "id": "environmentaltech:modifier_null", "meta": 0, "ignore-meta": true },
+	"o": { "id": "environmentaltech:pladium", "meta": 0, "ignore-meta": true },
+	"d": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"i": { "id": "minecraft:obsidian", "meta": 0, "ignore-meta": true },
+	"f": { "id": "environmentaltech:lonsdaleite", "meta": 0, "ignore-meta": true },
+	"r": { "id": "enderio:block_reinforced_obsidian", "meta": 0, "ignore-meta": true }	
+  },
+
+  "symmetrical": false,
+  "shape": [
+	[
+	  ["o","d","o"],
+	  ["d","f","d"],
+	  ["o","d","o"]
+	],
+	[
+	  ["r","i","r"],
+	  ["i","m","i"],
+	  ["r","i","r"]
+	],
+	[
+	  ["o","d","o"],
+	  ["d","f","d"],
+	  ["o","d","o"]
+	]
+  ]
+}	

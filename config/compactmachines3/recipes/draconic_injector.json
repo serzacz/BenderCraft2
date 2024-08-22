@@ -18,7 +18,7 @@
 	
   },
 
-  "symmetrical": true,
+  "symmetrical": false,
   "shape": [
     [
       ["m","i","m"],

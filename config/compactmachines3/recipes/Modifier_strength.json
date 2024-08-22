@@ -1,0 +1,37 @@
+{
+  "name": "environmentaltech:modifier_strength",
+  "target-item": "environmentaltech:modifier_strength",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:emerald_block",
+
+  "input-types": {
+	"m": { "id": "environmentaltech:modifier_null", "meta": 0, "ignore-meta": true },
+	"o": { "id": "mekanism:basicblock", "meta": 8, "ignore-meta": false },
+	"d": { "id": "environmentaltech:kyronite", "meta": 0, "ignore-meta": true },
+	"i": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"f": { "id": "environmentaltech:lonsdaleite", "meta": 0, "ignore-meta": true }	
+  },
+
+  "symmetrical": false,
+  "shape": [
+	[
+	  ["d","i","d"],
+	  ["i","f","i"],
+	  ["d","i","d"]
+	],
+	[
+	  ["i","o","i"],
+	  ["o","m","o"],
+	  ["i","o","i"]
+	],
+	[
+	  ["d","i","d"],
+	  ["i","f","i"],
+	  ["d","i","d"]
+	]
+  ]
+}	

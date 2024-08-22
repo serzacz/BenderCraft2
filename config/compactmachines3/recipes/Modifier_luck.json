@@ -1,0 +1,43 @@
+{
+  "name": "environmentaltech:modifier_luck",
+  "target-item": "environmentaltech:modifier_luck",
+  "target-meta": 0,
+  "target-count": 1,
+
+  "duration": 400,
+
+  "catalyst": "minecraft:emerald_block",
+
+  "input-types": {
+	"m": { "id": "environmentaltech:modifier_null", "meta": 0, "ignore-meta": true },
+	"o": { "id": "environmentaltech:pladium", "meta": 0, "ignore-meta": true },
+	"d": { "id": "environmentaltech:mica", "meta": 0, "ignore-meta": true },
+	"i": { "id": "nuclearcraft:cooler", "meta": 12, "ignore-meta": false },
+	"f": { "id": "environmentaltech:lonsdaleite", "meta": 0, "ignore-meta": true },
+	"r": { "id": "minecraft:beacon", "meta": 0, "ignore-meta": true }
+  },
+
+  "symmetrical": false,
+  "shape": [
+ 	[
+	  ["_","_","_"],
+	  ["_","r","_"],
+	  ["_","_","_"]
+	], 
+	[
+	  ["o","d","o"],
+	  ["d","i","d"],
+	  ["o","d","o"]
+	],
+	[
+	  ["f","i","f"],
+	  ["i","m","i"],
+	  ["f","i","f"]
+	],
+	[
+	  ["o","d","o"],
+	  ["d","i","d"],
+	  ["o","d","o"]
+	]
+  ]
+}	

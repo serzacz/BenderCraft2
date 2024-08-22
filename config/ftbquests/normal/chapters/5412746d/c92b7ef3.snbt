@@ -5,7 +5,9 @@
 		uid: "2c90a8c2",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "galacticraftplanets:schematic",
 			Damage: 1s
 		}],

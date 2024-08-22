@@ -8,7 +8,9 @@
 		uid: "9d0a0811",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "bloodmagic:monster_soul"
 		}],
 		ignore_nbt: 1b

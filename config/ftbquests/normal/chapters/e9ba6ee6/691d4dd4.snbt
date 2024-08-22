@@ -8,7 +8,9 @@
 		uid: "f1e84b3e",
 		type: "item",
 		items: [{
-
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "bloodmagic:soul_gem",
 			tag: {
 				souls: 0.0d
